@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="24.618517"
+   width="64.994026"
+   version="1.1"
+   id="_x34_"
+   viewBox="0 0 41.596177 15.755851"
+   xml:space="preserve"
+   sodipodi:docname="3d-glasses.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs23" /><sodipodi:namedview
+   id="namedview21"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.04625"
+   inkscape:cx="399.5221"
+   inkscape:cy="400.4779"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="_x34_" />
+<g
+   id="g18"
+   transform="scale(0.08124253)">
+	<g
+   id="g6">
+		<polygon
+   style="fill:#f2f2f2"
+   points="178.424,193.936 256,104.73 256,0 0,0 0,141.577 52.365,193.936 "
+   id="polygon2" />
+		<polygon
+   style="fill:#d8292f"
+   points="212.362,43.637 212.362,88.402 158.543,150.305 70.44,150.305 43.634,123.499 43.634,43.637 "
+   id="polygon4" />
+	</g>
+	<g
+   id="g16">
+		<polygon
+   style="fill:#efeeef"
+   points="333.576,193.936 256,104.73 256,0 512,0 512,141.577 459.635,193.936 "
+   id="polygon8" />
+		<polygon
+   style="fill:#83c3da"
+   points="299.631,43.637 299.631,88.402 353.46,150.305 441.563,150.305 468.362,123.499 468.362,43.637 "
+   id="polygon10" />
+		<polygon
+   style="opacity:0.16;fill:#231815"
+   points="43.634,43.637 43.634,123.499 47.515,127.38 47.515,48.484 212.362,48.484 212.362,43.637 "
+   id="polygon12" />
+		<polygon
+   style="opacity:0.16;fill:#231815"
+   points="299.631,43.637 299.631,88.402 303.512,92.869 303.512,48.484 468.362,48.484 468.362,43.637 "
+   id="polygon14" />
+	</g>
+</g>
+</svg>
