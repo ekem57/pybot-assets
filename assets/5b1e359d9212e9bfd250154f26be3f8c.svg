@@ -2,11 +2,11 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
-   height="24.618517"
-   width="64.994026"
+   height="44.530556"
+   width="117.56272"
    version="1.1"
    id="_x34_"
-   viewBox="0 0 41.596177 15.755851"
+   viewBox="0 0 75.240142 28.499556"
    xml:space="preserve"
    sodipodi:docname="3d-glasses.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -14,8 +14,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs23" /><sodipodi:namedview
-   id="namedview21"
+   id="defs193" /><sodipodi:namedview
+   id="namedview191"
    pagecolor="#ffffff"
    bordercolor="#000000"
    borderopacity="0.25"
@@ -26,45 +26,45 @@
    showgrid="false"
    inkscape:zoom="1.04625"
    inkscape:cx="399.5221"
-   inkscape:cy="400.4779"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   inkscape:window-x="1912"
+   inkscape:cy="171.08722"
+   inkscape:window-width="1440"
+   inkscape:window-height="837"
+   inkscape:window-x="3832"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="_x34_" />
 <g
-   id="g18"
-   transform="scale(0.08124253)">
+   id="g188"
+   transform="scale(0.1469534)">
 	<g
-   id="g6">
+   id="g176">
 		<polygon
    style="fill:#f2f2f2"
-   points="178.424,193.936 256,104.73 256,0 0,0 0,141.577 52.365,193.936 "
-   id="polygon2" />
+   points="256,104.73 256,0 0,0 0,141.577 52.365,193.936 178.424,193.936 "
+   id="polygon172" />
 		<polygon
    style="fill:#d8292f"
-   points="212.362,43.637 212.362,88.402 158.543,150.305 70.44,150.305 43.634,123.499 43.634,43.637 "
-   id="polygon4" />
+   points="212.362,88.402 158.543,150.305 70.44,150.305 43.634,123.499 43.634,43.637 212.362,43.637 "
+   id="polygon174" />
 	</g>
 	<g
-   id="g16">
+   id="g186">
 		<polygon
    style="fill:#efeeef"
-   points="333.576,193.936 256,104.73 256,0 512,0 512,141.577 459.635,193.936 "
-   id="polygon8" />
+   points="256,104.73 256,0 512,0 512,141.577 459.635,193.936 333.576,193.936 "
+   id="polygon178" />
 		<polygon
    style="fill:#83c3da"
-   points="299.631,43.637 299.631,88.402 353.46,150.305 441.563,150.305 468.362,123.499 468.362,43.637 "
-   id="polygon10" />
+   points="299.631,88.402 353.46,150.305 441.563,150.305 468.362,123.499 468.362,43.637 299.631,43.637 "
+   id="polygon180" />
 		<polygon
    style="opacity:0.16;fill:#231815"
-   points="43.634,43.637 43.634,123.499 47.515,127.38 47.515,48.484 212.362,48.484 212.362,43.637 "
-   id="polygon12" />
+   points="43.634,123.499 47.515,127.38 47.515,48.484 212.362,48.484 212.362,43.637 43.634,43.637 "
+   id="polygon182" />
 		<polygon
    style="opacity:0.16;fill:#231815"
-   points="299.631,43.637 299.631,88.402 303.512,92.869 303.512,48.484 468.362,48.484 468.362,43.637 "
-   id="polygon14" />
+   points="299.631,88.402 303.512,92.869 303.512,48.484 468.362,48.484 468.362,43.637 299.631,43.637 "
+   id="polygon184" />
 	</g>
 </g>
 </svg>
