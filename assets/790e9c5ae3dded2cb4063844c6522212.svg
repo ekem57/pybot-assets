@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 140 82.850189"
+   version="1.1"
+   id="svg1715"
+   sodipodi:docname="dumptruck.svg"
+   width="140"
+   height="82.850189"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1717"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3850575"
+     inkscape:cx="427.41909"
+     inkscape:cy="255.58506"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1715" />
+  <desc
+     id="desc1589">Dump Truck - inspired by openclipart.org &quot;Truck 1&quot;
+    From the book, I Love to Color, Play, &amp; Learn, by Jay Nick.
+    I Love to Color, Play, &amp; Learn is as an eBook from cattocreations.com
+    Written by Jay Nick
+    Handcoding SVG since 2001
+    Author of eBook, Learn SVG Interactively, published by Catto Creations, LLC
+    http://www.jaynick.com
+    I Love to Color, Play, &amp; Learn is published by Catto Creations, LLC
+    Catto Creations mission is Family, Literacy, and Enrichment
+    Visit http://www.cattocreations.com for award winning children's eBooks
+    I Love to Color, Play, &amp; Learn and other free ePub3 eBooks at http://www.cattocreations.com/ePub3.html</desc>
+  <defs
+     id="defs1603">
+    <pattern
+       id="heatshield"
+       width="10"
+       patternUnits="userSpaceOnUse"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="#ccc"
+         id="rect1591" />
+      <path
+         stroke="#444"
+         d="m0 0l10 10m0-10l-10 10"
+         id="path1593" />
+    </pattern>
+    <linearGradient
+       id="tank"
+       x2="0"
+       y2="1">
+      <stop
+         stop-color="#333"
+         offset="0"
+         id="stop1596" />
+      <stop
+         stop-color="#fff"
+         stop-opacity=".6"
+         offset=".4"
+         id="stop1598" />
+      <stop
+         stop-color="#333"
+         offset="1"
+         id="stop1600" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tank"
+       id="linearGradient2689"
+       x2="327.92953"
+       y2="624.85675"
+       gradientTransform="scale(1.2472191,0.80178373)"
+       x1="327.92953"
+       y1="535.05701"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tank"
+       id="linearGradient2691"
+       x2="492"
+       y2="458"
+       x1="492"
+       y1="442"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tank"
+       id="linearGradient2693"
+       x2="286.94308"
+       y2="781.15491"
+       gradientTransform="scale(1.7320508,0.57735027)"
+       x1="286.94308"
+       y1="777.6908"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tank"
+       id="linearGradient2695"
+       x2="1363.6564"
+       y2="169.03085"
+       gradientTransform="scale(0.3380617,2.9580399)"
+       x1="1363.6564"
+       y1="145.36653"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tank"
+       id="linearGradient2697"
+       x2="327.92953"
+       y2="624.85675"
+       gradientTransform="scale(1.2472191,0.80178373)"
+       x1="327.92953"
+       y1="535.05701"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <style
+     type="text/css"
+     id="style1605">#dumper {fill:#999999;stroke:black;stroke-width:5px;}
+    .tire {fill:#222222;stroke:#222222;stroke-width:4px;stroke-dasharray:10,2;}
+    .rim {fill:#999999;stroke:black;stroke-width:4px;}
+    .lugnuts {fill:#666666;;stroke:black;}
+    #exhaust {fill:#aaaaaa;stroke:#444444;stroke-width:2;}
+    #exhaustshield {fill:url(#heatshield);stroke:#444444;stroke-width:2px;}
+    #shadow {fill:#666666;stroke:none;}
+    #frame {fill:#666666;stroke:#333333;stroke-width:5px;}
+    #indents {fill:#bbbbbb;stroke:none;}
+    #cab {fill:red;stroke:black;stroke-width:5px;}
+    .window {fill:#cccccc;stroke:black;stroke-width:5px;}
+    #door {fill:red;stroke:black;stroke-width:5px;}
+    #handle {fill:#cccccc;stroke:#999999;}
+    #grill {fill:#cccccc;stroke:#999999;}
+    #grillstyle {stroke-width:15;stroke-dasharray:2,8}
+    #hood {fill:none;stroke:black;stroke-width:2px;}
+    #fender {fill:none;stroke:#bbbbbb;stroke-width:8px;}
+    #mudflap {stroke:#111111;stroke-width:10px;}
+    #mudflapconnector {fill:#666666;}
+    #gastank {fill:url(#tank);stroke:#444444;stroke-width:2px;}
+    #band {stroke-width:8px;}
+    #frontfender {fill:red;stroke:black;stroke-width:5px;}
+    #wheelwell {fill:#111111;}
+    .dirt {fill:#333333;}
+    .dirty {opacity:0.9;}
+    .fillnone {fill:none;}</style>
+  <g
+     transform="matrix(0.16470588,0,0,0.16470588,-1.2352941,-0.65882352)"
+     id="g1711">
+    <g
+       id="DumpTruck"
+       transform="translate(-25,-75)">
+      <rect
+         id="exhaust"
+         rx="4"
+         height="150"
+         width="16"
+         y="80"
+         x="512" />
+      <rect
+         id="exhaustshield"
+         rx="4"
+         height="150"
+         width="30"
+         y="150"
+         x="505" />
+      <g
+         id="dumper">
+        <path
+           d="m 50,230 400,-20 40,-110 h 160 v 20 H 520 l -20,70 V 420 H 50 Z"
+           id="path1609" />
+        <g
+           id="indents">
+          <path
+             d="m 140,250 h -40 v 130 h 40"
+             id="path1611" />
+          <path
+             d="m 140,250 h -40 v 130 h 40"
+             transform="translate(90)"
+             id="path1613" />
+          <path
+             d="m 140,250 h -40 v 130 h 40"
+             transform="translate(180)"
+             id="path1615" />
+          <path
+             d="m 140,250 h -40 v 130 h 40"
+             transform="translate(270)"
+             id="path1617" />
+        </g>
+        <rect
+           id="shadow"
+           transform="rotate(-2,75,250)"
+           height="12"
+           width="365"
+           y="250"
+           x="75" />
+        <rect
+           id="gate"
+           height="195"
+           width="15"
+           y="230"
+           x="35" />
+      </g>
+      <rect
+         id="frame"
+         rx="20"
+         height="80"
+         width="810"
+         y="425"
+         x="70" />
+      <path
+         id="cab"
+         d="m 540,140 h 150 q 20,0 20,20 l 10,90 q 10,25 110,40 30,0 30,30 v 100 q 0,20 -20,20 H 540 q -20,0 -20,-20 V 170 q 0,-30 20,-30" />
+      <path
+         id="windshield"
+         d="m 695,160 h 15 l 10,90 h -20 z"
+         class="window" />
+      <rect
+         id="door"
+         rx="10"
+         height="210"
+         width="130"
+         y="160"
+         x="550" />
+      <rect
+         id="window"
+         class="window"
+         rx="10"
+         height="80"
+         width="110"
+         y="170"
+         x="560" />
+      <rect
+         id="handle"
+         rx="2"
+         height="6"
+         width="20"
+         y="270"
+         x="565" />
+      <g
+         id="grill">
+        <rect
+           y="330"
+           x="848"
+           rx="4"
+           width="15"
+           height="90"
+           id="rect1629" />
+        <path
+           id="grillstyle"
+           d="m 855,330 v 90" />
+      </g>
+      <path
+         id="hood"
+         d="M 861,330 735,325 A 10,10 0 0 1 725,315 V 255" />
+      <path
+         id="fender"
+         d="m 60,480 40,-52 h 250 l 60,77 h 240" />
+      <path
+         id="mudflap"
+         d="m 62,475 v 85" />
+      <circle
+         id="mudflapconnector"
+         cy="475"
+         cx="62"
+         r="6" />
+      <g
+         id="tire1"
+         transform="translate(0,10)">
+        <circle
+           cy="500"
+           cx="150"
+           r="70"
+           class="tire"
+           id="circle1637" />
+        <circle
+           cy="500"
+           cx="150"
+           r="35"
+           class="rim"
+           id="circle1639" />
+        <g
+           class="lugnuts"
+           id="g1651">
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             id="circle1641" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(72,150,500)"
+             id="circle1643" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(144,150,500)"
+             id="circle1645" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(-144,150,500)"
+             id="circle1647" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(-72,150,500)"
+             id="circle1649" />
+        </g>
+      </g>
+      <g
+         id="tire2"
+         transform="rotate(10,167.84974,1362.2539)">
+        <circle
+           cy="500"
+           cx="150"
+           r="70"
+           class="tire"
+           id="circle1654" />
+        <circle
+           cy="500"
+           cx="150"
+           r="35"
+           class="rim"
+           id="circle1656" />
+        <g
+           class="lugnuts"
+           id="g1668">
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             id="circle1658" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(72,150,500)"
+             id="circle1660" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(144,150,500)"
+             id="circle1662" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(-144,150,500)"
+             id="circle1664" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(-72,150,500)"
+             id="circle1666" />
+        </g>
+      </g>
+      <path
+         id="wheelwell"
+         d="m 650,460 a 97.5,80.294118 0 0 1 195,0 v 47 H 650 Z" />
+      <g
+         id="frontfender">
+        <path
+           d="m 550,470 v -60 h 100 v 60 z"
+           class="dirt"
+           id="path1672" />
+        <path
+           d="m 550,470 v -60 h 100 v 60 z"
+           class="dirty"
+           id="path1674" />
+        <path
+           d="m 550,440 v 30 h 110 v -5 a 85.600909,63.408081 0 0 1 170,-15 h 15 A 102.69037,82.152302 0 0 0 640,440 Z"
+           class="dirt"
+           id="path1676" />
+        <path
+           d="m 550,440 v 30 h 110 v -5 a 85.600909,63.408081 0 0 1 170,-15 h 15 A 102.69037,82.152302 0 0 0 640,440 Z"
+           class="dirty"
+           id="path1678" />
+        <path
+           d="m 640,440 v 30"
+           id="path1680" />
+        <path
+           d="m 640,470 v 30 h -90 v -90 h 100"
+           class="fillnone"
+           id="path1682" />
+      </g>
+      <g
+         id="fronttire"
+         transform="rotate(20,421.64359,2206.3845)">
+        <circle
+           cy="500"
+           cx="150"
+           r="70"
+           class="tire"
+           id="circle1685" />
+        <circle
+           cy="500"
+           cx="150"
+           r="35"
+           class="rim"
+           id="circle1687" />
+        <g
+           class="lugnuts"
+           id="g1699">
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             id="circle1689" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(72,150,500)"
+             id="circle1691" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(144,150,500)"
+             id="circle1693" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(-144,150,500)"
+             id="circle1695" />
+          <circle
+             cy="500"
+             cx="135"
+             r="4"
+             transform="rotate(-72,150,500)"
+             id="circle1697" />
+        </g>
+      </g>
+      <g
+         id="gastank"
+         style="fill:url(#linearGradient2697)">
+        <rect
+           rx="15"
+           ry="20"
+           height="70"
+           width="110"
+           y="430"
+           x="410"
+           id="rect1702"
+           style="fill:url(#linearGradient2689)" />
+        <circle
+           cy="450"
+           cx="500"
+           r="7"
+           id="circle1704"
+           style="fill:url(#linearGradient2691)" />
+        <path
+           d="m 497,450 h 6"
+           id="path1706"
+           style="fill:url(#linearGradient2693)" />
+        <path
+           id="band"
+           d="m 465,430 v 70"
+           style="fill:url(#linearGradient2695)" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata1713">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Dump Truck</dc:title>
+        <dc:date>2013-09-26T14:43:47</dc:date>
+        <dc:description>From the eBook, I Love to Color, Play, and Learn. SVG code can be inserted into an SVG image then scaled and positioned where desired.</dc:description>
+        <dc:source>https://openclipart.org/detail/183902/dump-truck-by-jaynick-183902</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>JayNick</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Dump Truck</rdf:li>
+            <rdf:li>Truck</rdf:li>
+            <rdf:li>handcoded</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>tire</rdf:li>
+            <rdf:li>vehicle</rdf:li>
+            <rdf:li>wheels</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

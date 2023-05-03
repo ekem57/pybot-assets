@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg3243"
+   sodipodi:docname="maidis-Vertical-Striped-Hot-Air-Balloons-1.svg"
+   viewBox="0 0 84.970733 140"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="84.970734"
+   height="140"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3246">
+    <linearGradient
+       id="linearGradient5705"
+       y2="534.94"
+       gradientUnits="userSpaceOnUse"
+       x2="125.97"
+       gradientTransform="matrix(3.9279,0,0,3.9279,312.68,-1030.7)"
+       y1="574.34998"
+       x1="126.57"
+       inkscape:collect="always">
+      <stop
+         id="stop15881"
+         style="stop-color:#722b15"
+         offset="0" />
+      <stop
+         id="stop15883"
+         style="stop-color:#a56706"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5703"
+       y2="480.91"
+       xlink:href="#linearGradient5707"
+       gradientUnits="userSpaceOnUse"
+       x2="210.08"
+       y1="492.88"
+       x1="210.08"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient5713"
+       y2="862.31"
+       xlink:href="#linearGradient5707"
+       gradientUnits="userSpaceOnUse"
+       x2="799.62"
+       y1="33.352001"
+       x1="799.62"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient5699"
+       y2="1087.3"
+       gradientUnits="userSpaceOnUse"
+       x2="875"
+       gradientTransform="matrix(0.70069,0,0,1.0002,188.9,-223.46)"
+       y1="256.37"
+       x1="875"
+       inkscape:collect="always">
+      <stop
+         id="stop5717"
+         style="stop-color:#e0de3f"
+         offset="0" />
+      <stop
+         id="stop5719"
+         style="stop-color:#e5e47a"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5707">
+      <stop
+         id="stop5709"
+         style="stop-color:#77b71c"
+         offset="0" />
+      <stop
+         id="stop5711"
+         style="stop-color:#94ce41"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5697"
+       y2="1146.9"
+       xlink:href="#linearGradient5707"
+       gradientUnits="userSpaceOnUse"
+       x2="875"
+       y1="256.37"
+       x1="854.09998"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10.0"
+     pagecolor="#ffffff"
+     gridtolerance="10.0"
+     inkscape:zoom="0.88562665"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     inkscape:current-layer="svg3243"
+     inkscape:cx="186.30876"
+     inkscape:cy="73.394359"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1017"
+     showgrid="false"
+     inkscape:pageopacity="0.0"
+     inkscape:window-width="1920"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1" />
+  <g
+     id="g5669"
+     transform="matrix(0.11742452,0,0,0.11742452,-51.651758,-3.8750092)">
+    <g
+       id="g5671">
+      <path
+         id="path5673"
+         sodipodi:nodetypes="cccssc"
+         style="fill:url(#linearGradient5697);fill-rule:evenodd;stroke:#000000;stroke-width:0.25"
+         transform="translate(-73.333,-223.33)"
+         d="m 1236.7,643.33 c 0,147.57 -145.8,339.12 -255.64,443.67 -125.02,-2 -76.52,-2.6 -218.61,2.2 C 654.25,984.96 513.33,791.44 513.33,643.33 513.33,429.89 675.36,256.67 875,256.67 c 199.6,0 361.7,173.22 361.7,386.66 z" />
+      <path
+         id="path5675"
+         sodipodi:nodetypes="cccsssc"
+         style="fill:url(#linearGradient5699);fill-rule:evenodd;stroke:#000000;stroke-width:0.5"
+         d="m 1055.4,419.99 c 0,146.9 -101.18,337.38 -178,442.26 -93.65,0.05 -55.19,-0.54 -155.81,1.5 -75.61,-104.71 -173,-296.64 -173,-443.76 0,-213.48 113.53,-386.74 253.41,-386.74 118.63,0.002 218.3,124.62 245.9,292.69 4.9,30.11 7.5,61.62 7.5,94.05 z" />
+      <path
+         id="path5677"
+         sodipodi:nodetypes="cccssc"
+         style="fill:url(#linearGradient5713);fill-rule:evenodd;stroke:#000000;stroke-width:0.62496"
+         d="m 895.59,419.99 c 0,146.55 -38.23,336.52 -67.3,441.37 -56.67,0.42 1.48,-0.02 -59.47,0.63 -28.59,-104.87 -65.17,-295.64 -65.17,-442 0,-213.25 42.99,-386.32 95.97,-386.32 52.97,-0.005 95.97,173.07 95.97,386.32 z" />
+    </g>
+    <g
+       id="g5679"
+       style="stroke:#000000"
+       transform="translate(7.0207,74.302)">
+      <path
+         id="path5681"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         d="m 688.86,791.44 c 18.84,67.69 33.72,137.27 43.73,207.16" />
+      <path
+         id="path5683"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         d="m 755.16,791.42 23.5,206.63" />
+      <path
+         id="path5689"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         d="M 826.53,791.66 816.39,997.91" />
+      <path
+         id="path5691"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         d="M 890.59,791.46 C 872.43,861.93 861.47,929.93 854.31,998.2" />
+    </g>
+    <path
+       id="path5693"
+       sodipodi:nodetypes="ccccc"
+       style="fill:url(#linearGradient5703);fill-rule:evenodd;stroke:#000000;stroke-width:0.131"
+       transform="matrix(4.7677,0,0,4.7677,-204.45,-1453)"
+       d="m 187.87,487.15 -1.41,-1.74 47.25,0.05 -1.05,2.05 z" />
+    <path
+       id="path5695"
+       style="fill:url(#linearGradient5705);fill-rule:evenodd;stroke:#000000;stroke-width:0.51051;stroke-linecap:round"
+       d="m 713.7,1070.7 c -8.02,0 -14.49,6.5 -14.49,14.5 0,8 6.47,14.5 14.49,14.5 h 5.15 c -0.25,1.7 -0.37,3.5 -0.37,5.6 v 69 c 0,28.1 22.64,50.7 50.7,50.7 h 66.41 c 28.06,0 50.69,-22.6 50.69,-50.7 v -69 c 0,-2.1 -0.12,-3.9 -0.37,-5.6 h 5.16 c 8.01,0 14.48,-6.5 14.48,-14.5 0,-8 -6.47,-14.5 -14.48,-14.5 z" />
+  </g>
+  <metadata
+     id="metadata2397">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Vertical Striped Hot Air Balloons 1</dc:title>
+        <dc:date>2006-12-26T00:00:00</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/18934/-by--18934</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>maidis</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
