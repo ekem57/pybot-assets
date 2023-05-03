@@ -1,1 +1,193 @@
-<svg version="1.0" width="65.123" height="140" xmlns="http://www.w3.org/2000/svg"><defs><radialGradient id="prefix__a" gradientUnits="userSpaceOnUse" cy="392.96" cx="367.05" gradientTransform="matrix(1 0 0 1.6137 0 -241.17)" r="131.84"><stop offset="0" stop-color="#ccc"/><stop offset="1" stop-color="#ccc" stop-opacity="0"/></radialGradient></defs><g transform="matrix(.1677 0 0 .1677 -28.996 -21.936)"><path d="M498.4 469.23c0 159.26-54.26 134.61-126.77 134.61-72.5 0-135.93 24.65-135.93-134.61 0-159.27 58.85-288.53 131.35-288.53S498.4 309.96 498.4 469.23z" fill="#218424" stroke="#000" stroke-width=".986"/><path d="M498.4 469.23c0 159.26-54.26 134.61-126.77 134.61-72.5 0-135.93 24.65-135.93-134.61 0-159.27 58.85-288.53 131.35-288.53S498.4 309.96 498.4 469.23z" opacity=".308" fill="url(#prefix__a)"/><path d="M370.21 626.76c96.23 0 173.7.04 173.7.08l-29.48 313.28c0 .05-47.99 25.01-144.22 25.01-96.23 0-133.7-26.61-133.7-26.65l-40-311.64c0-.04 77.47-.08 173.7-.08z" fill="#805700" stroke="#000" stroke-width=".911"/><rect rx="130.46" ry="11.909" height="95.18" width="387.4" y="554.56" x="173.35" fill="#805700" stroke="#000" stroke-width=".911"/><path d="M457.4 468.71c2.08.72 2.62-14.14 2.49-12.81-.12 1.32 2.28-15.15.07-14.55-2.2.61 90.52 16.1 88.44 15.38-21.53.65-64.82 7.67-91 11.98zM389.22 223.14c.61-2.16-13.97-2.03-12.67-1.96 1.31.07-14.94-1.62-14.25.6.7 2.22 11.63-92.95 11.01-90.8 1.63 21.91 10.49 65.68 15.91 92.16zM298.96 356.39c-2.05-.81-3.2 14.02-3.02 12.7.18-1.32-2.89 15.04-.66 14.53 2.23-.51-89.78-19.92-87.74-19.11 21.54.26 65.08-4.92 91.42-8.12zM279.07 452.45c-2.19-.22.59 14.38.41 13.06-.17-1.32 1.15 15.28 3.16 14.18 2.02-1.1-91.74 5.22-89.55 5.44 20.83-5.6 61.43-22.43 85.98-32.68zM340.44 459.46c2.19.2-.75-14.37-.56-13.05.19 1.32-1.32-15.26-3.32-14.14-2 1.12 91.67-6.29 89.49-6.49-20.77 5.85-61.18 23.15-85.61 33.68zM320.44 304.58c-2.15-.03 1.16-14.55.93-13.22-.22 1.32 1.75-15.4 3.67-14.05 1.93 1.36-89.61-16.09-87.46-16.06 20.16 8.15 59.24 30.03 82.86 43.33zM425.2 377.94c2.08.72 2.62-14.14 2.5-12.82-.13 1.33 2.27-15.15.07-14.54-2.21.61 90.51 16.1 88.43 15.37-21.53.66-64.81 7.68-91 11.99zM431.44 296.07c2.16-.38-4.32-13.7-3.81-12.47.52 1.22-5.09-14.42-6.74-12.82-1.66 1.61 87.08-29.9 84.91-29.53-18.61 11.06-53.37 38.29-74.36 54.82zM399.96 372.04c-.03-2.24-13.95 2.17-12.68 1.85 1.27-.32-14.77 2.85-13.48 4.77 1.29 1.92-15.16-92.42-15.13-90.18 7.75 20.49 28.61 59.8 41.29 83.56z" fill="#c09c1d" stroke="#000" stroke-width=".306"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   sodipodi:docname="Machovka-cactus1.svg"
+   viewBox="0 0 65.122628 140"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:label="Pozadí"
+   width="65.122627"
+   height="140"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3">
+    <radialGradient
+       id="radialGradient3830"
+       gradientUnits="userSpaceOnUse"
+       cy="392.95999"
+       cx="367.04999"
+       gradientTransform="matrix(1,0,0,1.6137,0,-241.17)"
+       r="131.84"
+       inkscape:collect="always">
+      <stop
+         id="stop3824"
+         style="stop-color:#ccc"
+         offset="0" />
+      <stop
+         id="stop3826"
+         style="stop-color:#ccc;stop-opacity:0"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="1017"
+     inkscape:zoom="0.48937524"
+     inkscape:window-x="1912"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="373.94618"
+     inkscape:cy="529.24623"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(-172.8943,-130.79759)">
+    <g
+       id="g3832"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/media/KINGSTON/inkscape/8.b/Petra Thurlova/svg 3/Prace svg/rostliny/kaktus.png"
+       transform="matrix(0.16770723,0,0,0.16770723,143.89868,108.86189)">
+      <path
+         id="path9027"
+         sodipodi:nodetypes="csssc"
+         style="fill:#218424;stroke:#000000;stroke-width:0.98588"
+         d="m 498.4,469.23 c 0,159.26 -54.26,134.61 -126.77,134.61 -72.5,0 -135.93,24.65 -135.93,-134.61 0,-159.27 58.85,-288.53 131.35,-288.53 72.5,0 131.35,129.26 131.35,288.53 z" />
+      <path
+         id="path3820"
+         sodipodi:nodetypes="csssc"
+         style="opacity:0.30841;fill:url(#radialGradient3830)"
+         d="m 498.4,469.23 c 0,159.26 -54.26,134.61 -126.77,134.61 -72.5,0 -135.93,24.65 -135.93,-134.61 0,-159.27 58.85,-288.53 131.35,-288.53 72.5,0 131.35,129.26 131.35,288.53 z" />
+      <path
+         id="rect8135"
+         sodipodi:nodetypes="cccsccc"
+         style="fill:#805700;stroke:#000000;stroke-width:0.91141"
+         d="m 370.21,626.76 c 96.23,0 173.7,0.04 173.7,0.08 l -29.48,313.28 c 0,0.05 -47.99,25.01 -144.22,25.01 -96.23,0 -133.7,-26.61 -133.7,-26.65 l -40,-311.64 c 0,-0.04 77.47,-0.08 173.7,-0.08 z" />
+      <rect
+         id="rect8133"
+         style="fill:#805700;stroke:#000000;stroke-width:0.91141"
+         rx="130.46001"
+         ry="11.909"
+         height="95.18"
+         width="387.39999"
+         y="554.56"
+         x="173.35001" />
+      <path
+         id="path9934"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 457.4,468.71 c 2.08,0.72 2.62,-14.14 2.49,-12.81 -0.12,1.32 2.28,-15.15 0.07,-14.55 -2.2,0.61 90.52,16.1 88.44,15.38 -21.53,0.65 -64.82,7.67 -91,11.98 z" />
+      <path
+         id="path10822"
+         sodipodi:nodetypes="csscc"
+         d="m 389.22,223.14 c 0.61,-2.16 -13.97,-2.03 -12.67,-1.96 1.31,0.07 -14.94,-1.62 -14.25,0.6 0.7,2.22 11.63,-92.95 11.01,-90.8 1.63,21.91 10.49,65.68 15.91,92.16 z"
+         inkscape:transform-center-x="28.690313"
+         inkscape:transform-center-y="-246.26312"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577" />
+      <path
+         id="path10824"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 298.96,356.39 c -2.05,-0.81 -3.2,14.02 -3.02,12.7 0.18,-1.32 -2.89,15.04 -0.66,14.53 2.23,-0.51 -89.78,-19.92 -87.74,-19.11 21.54,0.26 65.08,-4.92 91.42,-8.12 z" />
+      <path
+         id="path10826"
+         inkscape:transform-center-x="-486.33437"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 279.07,452.45 c -2.19,-0.22 0.59,14.38 0.41,13.06 -0.17,-1.32 1.15,15.28 3.16,14.18 2.02,-1.1 -91.74,5.22 -89.55,5.44 20.83,-5.6 61.43,-22.43 85.98,-32.68 z" />
+      <path
+         id="path10828"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 340.44,459.46 c 2.19,0.2 -0.75,-14.37 -0.56,-13.05 0.19,1.32 -1.32,-15.26 -3.32,-14.14 -2,1.12 91.67,-6.29 89.49,-6.49 -20.77,5.85 -61.18,23.15 -85.61,33.68 z"
+         inkscape:transform-center-x="-11.629129"
+         inkscape:transform-center-y="17.970663"
+         sodipodi:nodetypes="csscc" />
+      <path
+         id="path10830"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 320.44,304.58 c -2.15,-0.03 1.16,-14.55 0.93,-13.22 -0.22,1.32 1.75,-15.4 3.67,-14.05 1.93,1.36 -89.61,-16.09 -87.46,-16.06 20.16,8.15 59.24,30.03 82.86,43.33 z" />
+      <path
+         id="path10832"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 425.2,377.94 c 2.08,0.72 2.62,-14.14 2.5,-12.82 -0.13,1.33 2.27,-15.15 0.07,-14.54 -2.21,0.61 90.51,16.1 88.43,15.37 -21.53,0.66 -64.81,7.68 -91,11.99 z" />
+      <path
+         id="path10834"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 431.44,296.07 c 2.16,-0.38 -4.32,-13.7 -3.81,-12.47 0.52,1.22 -5.09,-14.42 -6.74,-12.82 -1.66,1.61 87.08,-29.9 84.91,-29.53 -18.61,11.06 -53.37,38.29 -74.36,54.82 z" />
+      <path
+         id="path10836"
+         sodipodi:nodetypes="csscc"
+         style="fill:#c09c1d;stroke:#000000;stroke-width:0.30577"
+         d="m 399.96,372.04 c -0.03,-2.24 -13.95,2.17 -12.68,1.85 1.27,-0.32 -14.77,2.85 -13.48,4.77 1.29,1.92 -15.16,-92.42 -15.13,-90.18 7.75,20.49 28.61,59.8 41.29,83.56 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata641">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>cactus1</dc:title>
+        <dc:date>2007-01-02T11:06:46</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/2724/cactus1-by-machovka</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Machovka</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>flower</rdf:li>
+            <rdf:li>herb</rdf:li>
+            <rdf:li>nature</rdf:li>
+            <rdf:li>plant</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
