@@ -1,1 +1,156 @@
-<svg width="140" height="124.914" xmlns="http://www.w3.org/2000/svg"><g stroke="#8b3c1b" stroke-width=".5" fill="none"><path d="M66.831 106.595l2.228 11.138 4.455 2.228M73.514 117.733H69.06M73.514 115.505l-4.455 2.228" stroke-width="1.113835"/></g><path fill="#f95" d="M11.14 68.724c4.455 11.139 19.791 21.25 28.96 15.594 12.124-7.151 19.262-20.593 19.602-34.73C61.788 33.68 62.855 14.063 77.97 4.123c14.582-8.642 34.504-2.919 40.41 14.029 5.423 15.566 4.143 41.661 4.143 52.8.391 18.08-8.118 30.347-25.008 36.719-17.759 6.7-37.652 5.836-55.496 1.445-11.847-2.916-20.937-8.546-30.88-15.888C6.945 90.13.001 82.09.001 70.95c2.228 4.456 4.455 4.456 6.683 4.456 0-2.228 4.455-6.683 4.455-6.683z"/><path fill="teal" d="M60.843 40.656c-.39 2.987-.743 5.943-1.114 8.771-.34 14.136-7.506 27.588-19.63 34.738-9.169 5.657-24.505-4.455-28.96-15.593 0 0-4.456 2.227-4.456 6.683-2.228 0-4.4-1.031-6.683-4.456 0 11.139 6.943 19.18 11.138 22.277 5 3.691 9.801 6.978 14.828 9.676 14.133 1.56 36.41-.668 47.548-9.579 4.455-4.455 6.683-11.138 4.455-22.276 4.455 8.91-2.228 24.504-4.455 28.96 13.28-1.66 22.276-20.05 22.276-35.643 4.456-4.456 4.43-10.688 4.456-15.594-14.07-1.178-31.206 2.384-39.403-7.867z"/><path d="M92.797 0c-5.088.018-10.271 1.338-14.828 4.038C63.8 13.357 62.04 31.133 60.148 46.433c12.107 4.773 34.751 4.412 62.653 1.462-.18-10.446-1.167-21.652-4.455-29.795C114.806 6.266 103.99-.04 92.796 0z" fill="teal"/><path d="M86.555 19.938c5.366-9.097 22.292-4.012 21.121 6.73-.775 9.68-15.66 14.157-21.062 5.683-2.515-3.593-2.839-8.865-.058-12.413z" fill="#fff"/><path d="M102.474 25.285a5.57 5.57 0 11-11.138 0 5.57 5.57 0 0111.138 0z"/><path stroke="#8b3c1b" stroke-width="1.113835" fill="none" d="M55.693 108.822l2.228 13.366 4.455 2.228M62.376 122.188H57.92M62.376 119.96l-4.455 2.228"/><path d="M98.019 24.17a2.228 2.228 0 11-4.456 0 2.228 2.228 0 014.456 0z" fill="#fff"/><path fill="#f60" d="M118.068 17.488C124.312 17.732 140 18.809 140 27.72c-8.565.891-10.793.891-17.476 3.119 0 0 12.853-1.669 15.594-2.228-.605 5.732-9.512 11.363-15.24 13.195-1.216-4.39-5.435-12.582-4.81-24.333z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   viewBox="0 0 140 124.91419"
+   version="1.1"
+   sodipodi:docname="little-bird.svg"
+   width="140"
+   height="124.91419"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs698" />
+  <sodipodi:namedview
+     id="namedview696"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.078125"
+     inkscape:cx="31.044205"
+     inkscape:cy="25.844683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="layer1"
+     transform="matrix(2.2276712,0,0,2.2276712,-2.2265574,-2215.5298)">
+    <g
+       id="g3850">
+      <g
+         id="g3815"
+         transform="translate(1,-1)">
+        <g
+           id="g3035"
+           stroke="#8b3c1b"
+           stroke-width="0.5"
+           fill="none"
+           transform="translate(5,-2)">
+          <path
+             id="path3037"
+             d="m 25,1045.4 1,5 2,1" />
+          <path
+             id="path3039"
+             d="M 28,1050.4 H 26" />
+          <path
+             id="path3041"
+             d="m 28,1049.4 -2,1" />
+        </g>
+      </g>
+      <path
+         id="path2915"
+         fill="#ff9955"
+         d="m 6,1025.4 c 2,5 8.8845,9.5393 13,7 5.4427,-3.2102 8.6472,-9.2443 8.7997,-15.59 0.9362,-7.1415 1.4152,-15.948 8.2003,-20.41 6.5459,-3.8792 15.489,-1.3102 18.14,6.2975 2.4348,6.9879 1.86,18.702 1.86,23.702 0.17565,8.1164 -3.6442,13.623 -11.226,16.483 -7.9719,3.0077 -16.902,2.6202 -24.912,0.6489 -5.3184,-1.309 -9.399,-3.8363 -13.862,-7.1321 -1.8831,-1.3906 -5,-5 -5,-10 1,2 2,2 3,2 0,-1 2,-3 2,-3 z" />
+      <path
+         id="path3019"
+         fill="#008080"
+         d="m 28.312,1012.8 c -0.17552,1.341 -0.33358,2.668 -0.5,3.9375 -0.15244,6.3457 -3.3698,12.384 -8.8125,15.594 -4.1155,2.5393 -11,-2 -13,-7 0,0 -2,1 -2,3 -1,0 -1.9752,-0.4628 -3,-2 0,5 3.1169,8.6094 5,10 2.2441,1.657 4.3997,3.1324 6.6562,4.3437 6.344,0.7 16.344,-0.3 21.344,-4.3 2,-2 3,-5 2,-10 2,4 -1,11 -2,13 5.9616,-0.7452 10,-9 10,-16 2,-2 1.9887,-4.7977 2,-7 -6.3155,-0.5286 -14.008,1.0704 -17.688,-3.5313 z" />
+      <path
+         id="path3014"
+         d="m 42.656,994.55 c -2.2839,0.008 -4.6107,0.60025 -6.6562,1.8125 -6.3604,4.183 -7.1512,12.163 -8,19.031 5.435,2.1424 15.6,1.9803 28.125,0.6563 -0.08092,-4.6891 -0.52381,-9.7198 -2,-13.375 -1.5891,-5.3121 -6.4443,-8.143 -11.469,-8.125 z"
+         fill="#008080" />
+      <path
+         id="path2923"
+         d="m 39.854,1003.5 c 2.4087,-4.0839 10.007,-1.801 9.4813,3.0209 -0.3482,4.3455 -7.0302,6.3552 -9.455,2.5511 -1.1287,-1.613 -1.2741,-3.9795 -0.026,-5.572 z"
+         fill="#ffffff" />
+      <path
+         id="path3011"
+         d="m 47,1005.9 c 0,1.3807 -1.1193,2.5 -2.5,2.5 -1.3807,0 -2.5,-1.1193 -2.5,-2.5 0,-1.3807 1.1193,-2.5 2.5,-2.5 1.3807,0 2.5,1.1193 2.5,2.5 z" />
+      <path
+         id="path3024"
+         stroke="#8b3c1b"
+         stroke-width="0.5"
+         fill="none"
+         d="m 26,1043.4 1,6 2,1" />
+      <path
+         id="path3026"
+         stroke="#8b3c1b"
+         stroke-width="0.5"
+         fill="none"
+         d="M 29,1049.4 H 27" />
+      <path
+         id="path3028"
+         stroke="#8b3c1b"
+         stroke-width="0.5"
+         fill="none"
+         d="m 29,1048.4 -2,1" />
+      <path
+         id="path3827"
+         d="m 45,1005.4 c 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 0.55228,0 1,0.4477 1,1 z"
+         fill="#ffffff" />
+      <path
+         id="path2917"
+         fill="#ff6600"
+         d="m 54,1002.4 c 2.803,0.1097 9.8454,0.5932 9.8454,4.5932 -3.845,0.4 -4.845,0.4 -7.845,1.4 0,0 5.7696,-0.7489 7,-1 -0.2715,2.5733 -4.2697,5.1009 -6.8407,5.9232 -0.54615,-1.971 -2.4399,-5.6481 -2.1593,-10.923 l -10e-7,-4e-4 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata693">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>birdie</dc:title>
+        <dc:date>2013-11-21T05:53:18</dc:date>
+        <dc:description>green birdie</dc:description>
+        <dc:source>https://openclipart.org/detail/188961/birdie-by-crisg-188961</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>crisg</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>birdie</rdf:li>
+            <rdf:li>birds</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>flat colors</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>little bird</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
