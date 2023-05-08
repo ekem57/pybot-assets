@@ -1,1 +1,210 @@
-<svg version="1.0" width="100" height="99.83" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="prefix__f" y2="25.597" xlink:href="#prefix__a" gradientUnits="userSpaceOnUse" x2="632.48" gradientTransform="rotate(-21.348 50.288 179.164) scale(.91658)" y1="53.939" x1="629.33"/><linearGradient id="prefix__e" y2="-3.347" xlink:href="#prefix__a" gradientUnits="userSpaceOnUse" x2="557.55" y1="-39.056" x1="557.55"/><linearGradient id="prefix__c" y2="-76.4" gradientUnits="userSpaceOnUse" x2="531.01" y1="-1.24" x1="531.01"><stop offset="0" stop-color="#286a27"/><stop offset="1" stop-color="#264826"/></linearGradient><linearGradient id="prefix__a"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><radialGradient id="prefix__b" gradientUnits="userSpaceOnUse" cy="-27.632" cx="531.04" gradientTransform="translate(68.738 -5.101) scale(.87056)" r="37.709"><stop offset="0" stop-color="#8fe68c"/><stop offset="1" stop-color="#29902b"/></radialGradient><filter id="prefix__d" x="-.159" y="-.137" width="1.319" height="1.274"><feGaussianBlur stdDeviation="1.548"/></filter></defs><g transform="matrix(1.34459 0 0 1.3423 -596.948 270.965)"><path d="M566.746-39.41A35.709 35.709 0 01531.221-3.7a35.709 35.709 0 01-35.89-35.341 35.709 35.709 0 0135.154-36.073 35.709 35.709 0 0136.253 34.969" transform="translate(-49.888 -125.27)" fill="url(#prefix__b)" stroke="url(#prefix__c)" stroke-width="2.954" stroke-linecap="round" stroke-linejoin="round"/><g stroke-width="3.076" stroke-linecap="round" stroke-linejoin="round"><path d="M523.42-241.28v38.32l32.94-19.01z" opacity=".5" stroke="#000" filter="url(#prefix__d)" transform="translate(-54.859 58.823)"/><path d="M466.801-184.227v38.32l32.93-19.01z" fill="#d6ffdc" stroke="#33543c"/></g><ellipse transform="matrix(1.0149 0 0 1.0396 -84.727 -157.14)" cx="557.554" cy="-21.201" rx="23.688" ry="17.854" fill="url(#prefix__e)"/><path d="M451.42-150.27c7.1 15.8 25.44 23.42 41.75 17.05 16.3-6.37 24.61-24.4 19.14-40.82-4.43 11.11-13.28 20.41-25.28 25.11-12.02 4.69-24.82 3.84-35.61-1.34z" fill="url(#prefix__f)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg9553"
+   sodipodi:docname="akiross_Audio_Button_Set_4.svg"
+   viewBox="0 0 50.390831 50.305341"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="50.390831"
+   height="50.30534"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs9555">
+    <linearGradient
+       id="linearGradient9542"
+       y2="25.597"
+       xlink:href="#linearGradient5037"
+       gradientUnits="userSpaceOnUse"
+       x2="632.47998"
+       gradientTransform="matrix(0.85369,-0.33367,0.33367,0.85369,-61.772,30.6)"
+       y1="53.938999"
+       x1="629.33002"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient9540"
+       y2="-3.3468001"
+       xlink:href="#linearGradient5037"
+       gradientUnits="userSpaceOnUse"
+       x2="557.54999"
+       y1="-39.056"
+       x1="557.54999"
+       inkscape:collect="always" />
+    <filter
+       id="filter6084"
+       inkscape:collect="always"
+       x="-0.15949751"
+       y="-0.1371016"
+       width="1.3189904"
+       height="1.2742033">
+      <feGaussianBlur
+         id="feGaussianBlur6086"
+         stdDeviation="1.54827"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       id="linearGradient10617"
+       y2="-76.400002"
+       gradientUnits="userSpaceOnUse"
+       x2="531.01001"
+       y1="-1.2398"
+       x1="531.01001"
+       inkscape:collect="always">
+      <stop
+         id="stop10613"
+         style="stop-color:#286a27"
+         offset="0" />
+      <stop
+         id="stop10615"
+         style="stop-color:#264826"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient9538"
+       gradientUnits="userSpaceOnUse"
+       cy="-27.632"
+       cx="531.03998"
+       gradientTransform="matrix(0.87056,0,0,0.87056,68.738,-5.1012)"
+       r="37.709"
+       inkscape:collect="always">
+      <stop
+         id="stop5006"
+         style="stop-color:#8fe68c"
+         offset="0" />
+      <stop
+         id="stop5008"
+         style="stop-color:#29902b"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient5037">
+      <stop
+         id="stop5039"
+         style="stop-color:#ffffff"
+         offset="0" />
+      <stop
+         id="stop5041"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="1017"
+     inkscape:zoom="1"
+     objecttolerance="10"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="129"
+     inkscape:cy="27"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(93.852807,4.5717156)">
+    <g
+       id="Play"
+       inkscape:label="Play"
+       transform="matrix(0.67755,0,0,0.6764,-394.66,131.97)">
+      <path
+         id="path9472"
+         sodipodi:rx="35.708893"
+         sodipodi:ry="35.708893"
+         style="fill:url(#radialGradient9538);stroke:url(#linearGradient10617);stroke-width:2.9543;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:type="arc"
+         d="m 566.74606,-39.409218 a 35.708893,35.708893 0 0 1 -35.52485,35.7084187 35.708893,35.708893 0 0 1 -35.89104,-35.3403447 35.708893,35.708893 0 0 1 35.1549,-36.072698 35.708893,35.708893 0 0 1 36.25341,34.968516"
+         sodipodi:open="true"
+         transform="translate(-49.888,-125.27)"
+         sodipodi:cy="-39.409218"
+         sodipodi:cx="531.03717"
+         sodipodi:end="6.2625697"
+         sodipodi:start="0"
+         sodipodi:arc-type="arc" />
+      <g
+         id="g9474"
+         transform="translate(-54.859,58.823)">
+        <path
+           id="path9476"
+           style="opacity:0.5;fill:#000000;stroke:#000000;stroke-width:3.076;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter6084)"
+           d="m 523.42,-241.28 v 38.32 l 32.94,-19.01 z" />
+        <path
+           id="path9478"
+           style="fill:#d6ffdc;stroke:#33543c;stroke-width:3.0762;stroke-linecap:round;stroke-linejoin:round"
+           d="m 521.66,-243.05 v 38.32 l 32.93,-19.01 z" />
+      </g>
+      <ellipse
+         id="path9480"
+         style="fill:url(#linearGradient9540)"
+         transform="matrix(1.0149,0,0,1.0396,-84.727,-157.14)"
+         cx="557.55371"
+         cy="-21.201218"
+         rx="23.688078"
+         ry="17.854446" />
+      <path
+         id="path9482"
+         style="fill:url(#linearGradient9542)"
+         d="m 451.42,-150.27 c 7.1,15.8 25.44,23.42 41.75,17.05 16.3,-6.37 24.61,-24.4 19.14,-40.82 -4.43,11.11 -13.28,20.41 -25.28,25.11 -12.02,4.69 -24.82,3.84 -35.61,-1.34 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata81">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Audio Button Set 4</dc:title>
+        <dc:date>2006-12-26T00:00:00</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/11575/-by--11575</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>akiross</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
