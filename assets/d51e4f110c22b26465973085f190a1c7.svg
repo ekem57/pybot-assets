@@ -1,1 +1,226 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg855" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs796"><style id="style794">.prefix__cls-1{fill:#396041}.prefix__cls-2{fill:#4c8056}.prefix__cls-3{fill:#ccc}.prefix__cls-4{fill:#f2f2f2}.prefix__cls-5{fill:#559264}.prefix__cls-6{fill:#71c285}.prefix__cls-10{fill:#98856e}.prefix__cls-11{fill:#cbb292}.prefix__cls-12{fill:#5f443e}.prefix__cls-14{fill:#999}</style></defs><g data-name="Layer 29" id="prefix__Layer_29" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path class="prefix__cls-1" id="prefix__rect800" d="M2 2h60v12H2z"/><path class="prefix__cls-2" id="prefix__rect802" d="M2 2h57v12H2z"/><path class="prefix__cls-3" id="prefix__rect804" d="M22 6h20v8H22z"/><path class="prefix__cls-4" id="prefix__rect806" d="M22 6h17v8H22z"/><path class="prefix__cls-5" id="prefix__rect808" d="M4 14h56v6H4z"/><path class="prefix__cls-6" id="prefix__rect810" d="M4 14h53v6H4z"/><path class="prefix__cls-3" id="prefix__rect812" d="M6 20h52v38H6z"/><path class="prefix__cls-4" id="prefix__rect814" d="M6 20h49v38H6z"/><path id="prefix__polygon816" fill="#cc4b4c" d="M50 26l2 6h-8l2-6z"/><path id="prefix__rect818" fill="#4482c3" d="M12 26h8v6h-8z"/><path class="prefix__cls-5" id="prefix__polygon820" d="M37 45l-2 4h-6l-2-4z"/><path class="prefix__cls-6" id="prefix__polygon822" d="M34 45h-7l2 4h3z"/><path id="prefix__rect824" fill="#b0d3f0" d="M26 26h12v13H26z"/><path class="prefix__cls-10" id="prefix__rect826" d="M42 36h12v22H42z"/><path class="prefix__cls-11" id="prefix__rect828" d="M42 36h9v22h-9z"/><path class="prefix__cls-10" id="prefix__rect830" d="M10 36h12v22H10z"/><path class="prefix__cls-11" id="prefix__rect832" d="M10 36h9v22h-9z"/><path class="prefix__cls-12" id="prefix__rect834" d="M18 41h4v8h-4z"/><path class="prefix__cls-12" id="prefix__rect836" d="M50 41h4v8h-4z"/><path class="prefix__cls-1" id="prefix__rect838" d="M2 58h60v4H2z"/><path class="prefix__cls-2" id="prefix__rect840" d="M2 58h57v4H2z"/><path id="prefix__rect842" fill="#224162" d="M15 29h2v3h-2z"/><path class="prefix__cls-14" id="prefix__rect844" d="M25 9h13v2H25z"/><path class="prefix__cls-14" transform="rotate(-45 31 31)" id="prefix__rect846" d="M28.17 30h5.66v2h-5.66z"/><path class="prefix__cls-14" transform="rotate(-45 32.995 34.003)" id="prefix__rect848" d="M30.17 33h5.66v2h-5.66z"/><path class="prefix__cls-14" id="prefix__rect850" d="M31 42h2v3h-2z"/><path class="prefix__cls-14" d="M35 54h-3a1 1 0 01-1-1v-4h2v3h2z" id="prefix__path852"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg855"
+   sodipodi:docname="architecture-bathroom-portable-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview857"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg855" />
+  <defs
+     id="defs796">
+    <style
+       id="style794">.cls-1{fill:#396041;}.cls-2{fill:#4c8056;}.cls-3{fill:#ccc;}.cls-4{fill:#f2f2f2;}.cls-5{fill:#559264;}.cls-6{fill:#71c285;}.cls-7{fill:#cc4b4c;}.cls-8{fill:#4482c3;}.cls-9{fill:#b0d3f0;}.cls-10{fill:#98856e;}.cls-11{fill:#cbb292;}.cls-12{fill:#5f443e;}.cls-13{fill:#224162;}.cls-14{fill:#999;}</style>
+  </defs>
+  <title
+     id="title798" />
+  <g
+     data-name="Layer 29"
+     id="Layer_29"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <rect
+       class="cls-1"
+       height="12"
+       width="60"
+       x="2"
+       y="2"
+       id="rect800" />
+    <rect
+       class="cls-2"
+       height="12"
+       width="57"
+       x="2"
+       y="2"
+       id="rect802" />
+    <rect
+       class="cls-3"
+       height="8"
+       width="20"
+       x="22"
+       y="6"
+       id="rect804" />
+    <rect
+       class="cls-4"
+       height="8"
+       width="17"
+       x="22"
+       y="6"
+       id="rect806" />
+    <rect
+       class="cls-5"
+       height="6"
+       width="56"
+       x="4"
+       y="14"
+       id="rect808" />
+    <rect
+       class="cls-6"
+       height="6"
+       width="53"
+       x="4"
+       y="14"
+       id="rect810" />
+    <rect
+       class="cls-3"
+       height="38"
+       width="52"
+       x="6"
+       y="20"
+       id="rect812" />
+    <rect
+       class="cls-4"
+       height="38"
+       width="49"
+       x="6"
+       y="20"
+       id="rect814" />
+    <polygon
+       class="cls-7"
+       points="50,26 52,32 44,32 46,26 "
+       id="polygon816" />
+    <rect
+       class="cls-8"
+       height="6"
+       width="8"
+       x="12"
+       y="26"
+       id="rect818" />
+    <polygon
+       class="cls-5"
+       points="37,45 35,49 29,49 27,45 "
+       id="polygon820" />
+    <polygon
+       class="cls-6"
+       points="34,45 27,45 29,49 32,49 "
+       id="polygon822" />
+    <rect
+       class="cls-9"
+       height="13"
+       width="12"
+       x="26"
+       y="26"
+       id="rect824" />
+    <rect
+       class="cls-10"
+       height="22"
+       width="12"
+       x="42"
+       y="36"
+       id="rect826" />
+    <rect
+       class="cls-11"
+       height="22"
+       width="9"
+       x="42"
+       y="36"
+       id="rect828" />
+    <rect
+       class="cls-10"
+       height="22"
+       width="12"
+       x="10"
+       y="36"
+       id="rect830" />
+    <rect
+       class="cls-11"
+       height="22"
+       width="9"
+       x="10"
+       y="36"
+       id="rect832" />
+    <rect
+       class="cls-12"
+       height="8"
+       width="4"
+       x="18"
+       y="41"
+       id="rect834" />
+    <rect
+       class="cls-12"
+       height="8"
+       width="4"
+       x="50"
+       y="41"
+       id="rect836" />
+    <rect
+       class="cls-1"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect838" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect840" />
+    <rect
+       class="cls-13"
+       height="3"
+       width="2"
+       x="15"
+       y="29"
+       id="rect842" />
+    <rect
+       class="cls-14"
+       height="2"
+       width="13"
+       x="25"
+       y="9"
+       id="rect844" />
+    <rect
+       class="cls-14"
+       height="2"
+       transform="rotate(-45,31.00031,30.999251)"
+       width="5.6599998"
+       x="28.17"
+       y="30"
+       id="rect846" />
+    <rect
+       class="cls-14"
+       height="2"
+       transform="rotate(-45,32.994585,34.003196)"
+       width="5.6599998"
+       x="30.17"
+       y="33"
+       id="rect848" />
+    <rect
+       class="cls-14"
+       height="3"
+       width="2"
+       x="31"
+       y="42"
+       id="rect850" />
+    <path
+       class="cls-14"
+       d="m 35,54 h -3 a 1,1 0 0 1 -1,-1 v -4 h 2 v 3 h 2 z"
+       id="path852" />
+  </g>
+</svg>

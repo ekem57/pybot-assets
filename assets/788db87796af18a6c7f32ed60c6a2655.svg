@@ -1,1 +1,232 @@
-<svg width="132.982" height="130.802" viewBox="0 0 10.639 10.464" version="1.1" id="prefix__svg1788" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs1725"><style id="style1723">.prefix__cls-1{fill:gray}.prefix__cls-2{fill:#606060}.prefix__cls-7{fill:#5f443e}.prefix__cls-8{fill:#7f5b53}.prefix__cls-9{fill:#993839}.prefix__cls-10{fill:#cc4b4c}.prefix__cls-11{fill:#ccc}.prefix__cls-12{fill:#f2f2f2}</style></defs><g data-name="Layer 13" id="prefix__Layer_13" transform="translate(-.349 -.349) scale(.1744)"><path class="prefix__cls-1" id="prefix__polygon1729" d="M36 38v-4l-4-4v8z"/><path class="prefix__cls-2" d="M34 51h-2v-2h2a1 1 0 001-1V34.41l-4.71-4.7 1.42-1.42 5 5A1 1 0 0137 34v14a3 3 0 01-3 3z" id="prefix__path1731"/><path class="prefix__cls-1" id="prefix__polygon1733" d="M62 38v-4l-4-4v8z"/><path class="prefix__cls-2" d="M60 51h-2v-2h2a1 1 0 001-1V34.41l-4.71-4.7 1.42-1.42 5 5A1 1 0 0163 34v14a3 3 0 01-3 3z" id="prefix__path1735"/><path id="prefix__rect1737" fill="#559264" d="M22 2h20v8H22z"/><path id="prefix__rect1739" fill="#71c285" d="M22 2h17v8H22z"/><path id="prefix__rect1741" fill="#98856e" d="M4 16h4v42H4z"/><path id="prefix__rect1743" fill="#cbb292" d="M4 16h2v42H4z"/><path class="prefix__cls-7" id="prefix__rect1745" d="M2 58h60v4H2z"/><path class="prefix__cls-8" id="prefix__rect1747" d="M2 58h57v4H2z"/><path class="prefix__cls-7" id="prefix__rect1749" d="M2 10h60v6H2z"/><path class="prefix__cls-8" id="prefix__rect1751" d="M2 10h57v6H2z"/><path class="prefix__cls-9" id="prefix__rect1753" d="M12 54h22v4H12z"/><path class="prefix__cls-9" id="prefix__rect1755" d="M38 54h22v4H38z"/><path class="prefix__cls-10" d="M40 54V30a4 4 0 014-4h10a4 4 0 014 4v24" id="prefix__path1757"/><path class="prefix__cls-10" d="M14 54V30a4 4 0 014-4h10a4 4 0 014 4v24" id="prefix__path1759"/><path class="prefix__cls-11" id="prefix__rect1761" d="M18 42h10v4H18z"/><path class="prefix__cls-12" id="prefix__rect1763" d="M18 42h7v4h-7z"/><path class="prefix__cls-11" id="prefix__rect1765" d="M44 42h10v4H44z"/><path class="prefix__cls-12" id="prefix__rect1767" d="M44 42h7v4h-7z"/><path class="prefix__cls-11" id="prefix__rect1769" d="M44 30h10v8H44z"/><path class="prefix__cls-12" id="prefix__rect1771" d="M44 30h7v8h-7z"/><path class="prefix__cls-11" id="prefix__rect1773" d="M18 30h10v8H18z"/><path class="prefix__cls-12" id="prefix__rect1775" d="M18 30h7v8h-7z"/><path class="prefix__cls-2" id="prefix__rect1777" d="M21 33h4v2h-4z"/><path class="prefix__cls-2" id="prefix__rect1779" d="M32 37h4v2h-4z"/><path class="prefix__cls-2" id="prefix__rect1781" d="M47 33h4v2h-4z"/><path class="prefix__cls-2" id="prefix__rect1783" d="M58 37h4v2h-4z"/><path id="prefix__rect1785" fill="#c6e7ce" d="M25 5h14v2H25z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="132.98192"
+   height="130.80185"
+   viewBox="0 0 10.638553 10.464148"
+   version="1.1"
+   id="svg1788"
+   sodipodi:docname="architecture-fuel-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1790"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1788" />
+  <defs
+     id="defs1725">
+    <style
+       id="style1723">.cls-1{fill:gray;}.cls-2{fill:#606060;}.cls-3{fill:#559264;}.cls-4{fill:#71c285;}.cls-5{fill:#98856e;}.cls-6{fill:#cbb292;}.cls-7{fill:#5f443e;}.cls-8{fill:#7f5b53;}.cls-9{fill:#993839;}.cls-10{fill:#cc4b4c;}.cls-11{fill:#ccc;}.cls-12{fill:#f2f2f2;}.cls-13{fill:#c6e7ce;}</style>
+  </defs>
+  <title
+     id="title1727" />
+  <g
+     data-name="Layer 13"
+     id="Layer_13"
+     transform="matrix(0.17440247,0,0,0.17440247,-0.34880494,-0.34880494)">
+    <polygon
+       class="cls-1"
+       points="36,38 36,34 32,30 32,38 "
+       id="polygon1729" />
+    <path
+       class="cls-2"
+       d="m 34,51 h -2 v -2 h 2 a 1,1 0 0 0 1,-1 V 34.41 l -4.71,-4.7 1.42,-1.42 5,5 A 1,1 0 0 1 37,34 v 14 a 3,3 0 0 1 -3,3 z"
+       id="path1731" />
+    <polygon
+       class="cls-1"
+       points="62,38 62,34 58,30 58,38 "
+       id="polygon1733" />
+    <path
+       class="cls-2"
+       d="m 60,51 h -2 v -2 h 2 a 1,1 0 0 0 1,-1 V 34.41 l -4.71,-4.7 1.42,-1.42 5,5 A 1,1 0 0 1 63,34 v 14 a 3,3 0 0 1 -3,3 z"
+       id="path1735" />
+    <rect
+       class="cls-3"
+       height="8"
+       width="20"
+       x="22"
+       y="2"
+       id="rect1737" />
+    <rect
+       class="cls-4"
+       height="8"
+       width="17"
+       x="22"
+       y="2"
+       id="rect1739" />
+    <rect
+       class="cls-5"
+       height="42"
+       width="4"
+       x="4"
+       y="16"
+       id="rect1741" />
+    <rect
+       class="cls-6"
+       height="42"
+       width="2"
+       x="4"
+       y="16"
+       id="rect1743" />
+    <rect
+       class="cls-7"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect1745" />
+    <rect
+       class="cls-8"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect1747" />
+    <rect
+       class="cls-7"
+       height="6"
+       width="60"
+       x="2"
+       y="10"
+       id="rect1749" />
+    <rect
+       class="cls-8"
+       height="6"
+       width="57"
+       x="2"
+       y="10"
+       id="rect1751" />
+    <rect
+       class="cls-9"
+       height="4"
+       width="22"
+       x="12"
+       y="54"
+       id="rect1753" />
+    <rect
+       class="cls-9"
+       height="4"
+       width="22"
+       x="38"
+       y="54"
+       id="rect1755" />
+    <path
+       class="cls-10"
+       d="M 40,54 V 30 a 4,4 0 0 1 4,-4 h 10 a 4,4 0 0 1 4,4 v 24"
+       id="path1757" />
+    <path
+       class="cls-10"
+       d="M 14,54 V 30 a 4,4 0 0 1 4,-4 h 10 a 4,4 0 0 1 4,4 v 24"
+       id="path1759" />
+    <rect
+       class="cls-11"
+       height="4"
+       width="10"
+       x="18"
+       y="42"
+       id="rect1761" />
+    <rect
+       class="cls-12"
+       height="4"
+       width="7"
+       x="18"
+       y="42"
+       id="rect1763" />
+    <rect
+       class="cls-11"
+       height="4"
+       width="10"
+       x="44"
+       y="42"
+       id="rect1765" />
+    <rect
+       class="cls-12"
+       height="4"
+       width="7"
+       x="44"
+       y="42"
+       id="rect1767" />
+    <rect
+       class="cls-11"
+       height="8"
+       width="10"
+       x="44"
+       y="30"
+       id="rect1769" />
+    <rect
+       class="cls-12"
+       height="8"
+       width="7"
+       x="44"
+       y="30"
+       id="rect1771" />
+    <rect
+       class="cls-11"
+       height="8"
+       width="10"
+       x="18"
+       y="30"
+       id="rect1773" />
+    <rect
+       class="cls-12"
+       height="8"
+       width="7"
+       x="18"
+       y="30"
+       id="rect1775" />
+    <rect
+       class="cls-2"
+       height="2"
+       width="4"
+       x="21"
+       y="33"
+       id="rect1777" />
+    <rect
+       class="cls-2"
+       height="2"
+       width="4"
+       x="32"
+       y="37"
+       id="rect1779" />
+    <rect
+       class="cls-2"
+       height="2"
+       width="4"
+       x="47"
+       y="33"
+       id="rect1781" />
+    <rect
+       class="cls-2"
+       height="2"
+       width="4"
+       x="58"
+       y="37"
+       id="rect1783" />
+    <rect
+       class="cls-13"
+       height="2"
+       width="14"
+       x="25"
+       y="5"
+       id="rect1785" />
+  </g>
+</svg>

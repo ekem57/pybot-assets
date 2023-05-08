@@ -1,1 +1,251 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg784" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs711"><style id="style709">.prefix__cls-1{fill:#5f443e}.prefix__cls-2{fill:#7f5b53}.prefix__cls-6{fill:#559264}.prefix__cls-7{fill:#71c285}.prefix__cls-8{fill:#b0d3f0}.prefix__cls-9{fill:#849eb4}.prefix__cls-10{fill:#98856e}.prefix__cls-11{fill:#cbb292}.prefix__cls-12{fill:#b5b5b5}</style></defs><g data-name="Layer 7" id="prefix__Layer_7" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path class="prefix__cls-1" id="prefix__polygon715" d="M62 22H2L32 4z"/><path class="prefix__cls-2" id="prefix__polygon717" d="M2 22h55L29.5 5.5z"/><circle cx="47" cy="10" r="8" id="prefix__circle719" fill="#b49313"/><ellipse cx="45.5" cy="10" rx="6.5" ry="7.85" id="prefix__ellipse721" fill="#f0c419"/><path id="prefix__rect723" fill="#f2f2f2" d="M10 26h44v28H10z"/><path class="prefix__cls-6" id="prefix__rect725" d="M24 30h16v4H24z"/><path class="prefix__cls-7" id="prefix__rect727" d="M24 30h13v4H24z"/><path class="prefix__cls-8" id="prefix__rect729" d="M14 34h6v6h-6z"/><path class="prefix__cls-9" id="prefix__rect731" d="M14 40h6v6h-6z"/><path class="prefix__cls-8" id="prefix__rect733" d="M44 40h6v6h-6z"/><path class="prefix__cls-9" id="prefix__rect735" d="M44 34h6v6h-6z"/><path class="prefix__cls-10" d="M24 54v-8a8 8 0 018-8 8 8 0 018 8v8" id="prefix__path737"/><path class="prefix__cls-11" d="M30.5 38.15A8 8 0 0024 46v8h13v-8a8 8 0 00-6.5-7.85z" id="prefix__path739"/><path class="prefix__cls-10" id="prefix__rect741" d="M2 54h60v8H2z"/><path class="prefix__cls-11" id="prefix__rect743" d="M2 54h57v8H2z"/><path class="prefix__cls-7" id="prefix__rect745" d="M18 58h28v4H18z"/><path class="prefix__cls-6" id="prefix__rect747" d="M20 54h24v4H20z"/><path class="prefix__cls-10" id="prefix__rect749" d="M54 30h4v20h-4z"/><path class="prefix__cls-11" id="prefix__rect751" d="M54 30h2v20h-2z"/><path class="prefix__cls-10" id="prefix__rect753" d="M6 30h4v20H6z"/><path class="prefix__cls-11" id="prefix__rect755" d="M6 30h2v20H6z"/><path class="prefix__cls-1" id="prefix__polyline757" d="M52 26v4h8v-4"/><path class="prefix__cls-2" id="prefix__rect759" d="M52 26h5v4h-5z"/><path class="prefix__cls-1" id="prefix__polyline761" d="M52 50v4h8v-4"/><path class="prefix__cls-2" id="prefix__rect763" d="M52 50h5v4h-5z"/><path class="prefix__cls-1" id="prefix__polyline765" d="M4 50v4h8v-4"/><path class="prefix__cls-2" id="prefix__rect767" d="M4 50h5v4H4z"/><path class="prefix__cls-1" id="prefix__polyline769" d="M4 26v4h8v-4"/><path class="prefix__cls-2" id="prefix__rect771" d="M4 26h5v4H4z"/><path class="prefix__cls-10" id="prefix__rect773" d="M2 22h60v4H2z"/><path class="prefix__cls-11" id="prefix__rect775" d="M2 22h57v4H2z"/><path class="prefix__cls-12" d="M47 15h-3v-2h3a1 1 0 000-2 3 3 0 010-6h3v2h-3a1 1 0 000 2 3 3 0 010 6z" id="prefix__path777"/><path class="prefix__cls-12" d="M48 2.07a7.18 7.18 0 00-2 0V6h2z" id="prefix__path779"/><path class="prefix__cls-12" d="M46 17.93a7.18 7.18 0 002 0V14h-2z" id="prefix__path781"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg784"
+   sodipodi:docname="architecture-bank-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview786"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg784" />
+  <defs
+     id="defs711">
+    <style
+       id="style709">.cls-1{fill:#5f443e;}.cls-2{fill:#7f5b53;}.cls-3{fill:#b49313;}.cls-4{fill:#f0c419;}.cls-5{fill:#f2f2f2;}.cls-6{fill:#559264;}.cls-7{fill:#71c285;}.cls-8{fill:#b0d3f0;}.cls-9{fill:#849eb4;}.cls-10{fill:#98856e;}.cls-11{fill:#cbb292;}.cls-12{fill:#b5b5b5;}</style>
+  </defs>
+  <title
+     id="title713" />
+  <g
+     data-name="Layer 7"
+     id="Layer_7"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <polygon
+       class="cls-1"
+       points="62,22 2,22 32,4 "
+       id="polygon715" />
+    <polygon
+       class="cls-2"
+       points="2,22 57,22 29.5,5.5 "
+       id="polygon717" />
+    <circle
+       class="cls-3"
+       cx="47"
+       cy="10"
+       r="8"
+       id="circle719" />
+    <ellipse
+       class="cls-4"
+       cx="45.5"
+       cy="10"
+       rx="6.5"
+       ry="7.8499999"
+       id="ellipse721" />
+    <rect
+       class="cls-5"
+       height="28"
+       width="44"
+       x="10"
+       y="26"
+       id="rect723" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="16"
+       x="24"
+       y="30"
+       id="rect725" />
+    <rect
+       class="cls-7"
+       height="4"
+       width="13"
+       x="24"
+       y="30"
+       id="rect727" />
+    <rect
+       class="cls-8"
+       height="6"
+       width="6"
+       x="14"
+       y="34"
+       id="rect729" />
+    <rect
+       class="cls-9"
+       height="6"
+       width="6"
+       x="14"
+       y="40"
+       id="rect731" />
+    <rect
+       class="cls-8"
+       height="6"
+       width="6"
+       x="44"
+       y="40"
+       id="rect733" />
+    <rect
+       class="cls-9"
+       height="6"
+       width="6"
+       x="44"
+       y="34"
+       id="rect735" />
+    <path
+       class="cls-10"
+       d="m 24,54 v -8 a 8,8 0 0 1 8,-8 v 0 a 8,8 0 0 1 8,8 v 8"
+       id="path737" />
+    <path
+       class="cls-11"
+       d="M 30.5,38.15 A 8,8 0 0 0 24,46 v 8 h 13 v -8 a 8,8 0 0 0 -6.5,-7.85 z"
+       id="path739" />
+    <rect
+       class="cls-10"
+       height="8"
+       width="60"
+       x="2"
+       y="54"
+       id="rect741" />
+    <rect
+       class="cls-11"
+       height="8"
+       width="57"
+       x="2"
+       y="54"
+       id="rect743" />
+    <rect
+       class="cls-7"
+       height="4"
+       width="28"
+       x="18"
+       y="58"
+       id="rect745" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="24"
+       x="20"
+       y="54"
+       id="rect747" />
+    <rect
+       class="cls-10"
+       height="20"
+       width="4"
+       x="54"
+       y="30"
+       id="rect749" />
+    <rect
+       class="cls-11"
+       height="20"
+       width="2"
+       x="54"
+       y="30"
+       id="rect751" />
+    <rect
+       class="cls-10"
+       height="20"
+       width="4"
+       x="6"
+       y="30"
+       id="rect753" />
+    <rect
+       class="cls-11"
+       height="20"
+       width="2"
+       x="6"
+       y="30"
+       id="rect755" />
+    <polyline
+       class="cls-1"
+       points="52 26 52 30 60 30 60 26"
+       id="polyline757" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="5"
+       x="52"
+       y="26"
+       id="rect759" />
+    <polyline
+       class="cls-1"
+       points="52 50 52 54 60 54 60 50"
+       id="polyline761" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="5"
+       x="52"
+       y="50"
+       id="rect763" />
+    <polyline
+       class="cls-1"
+       points="4 50 4 54 12 54 12 50"
+       id="polyline765" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="5"
+       x="4"
+       y="50"
+       id="rect767" />
+    <polyline
+       class="cls-1"
+       points="4 26 4 30 12 30 12 26"
+       id="polyline769" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="5"
+       x="4"
+       y="26"
+       id="rect771" />
+    <rect
+       class="cls-10"
+       height="4"
+       width="60"
+       x="2"
+       y="22"
+       id="rect773" />
+    <rect
+       class="cls-11"
+       height="4"
+       width="57"
+       x="2"
+       y="22"
+       id="rect775" />
+    <path
+       class="cls-12"
+       d="m 47,15 h -3 v -2 h 3 a 1,1 0 0 0 0,-2 3,3 0 0 1 0,-6 h 3 v 2 h -3 a 1,1 0 0 0 0,2 3,3 0 0 1 0,6 z"
+       id="path777" />
+    <path
+       class="cls-12"
+       d="m 48,2.07 a 7.18,7.18 0 0 0 -2,0 V 6 h 2 z"
+       id="path779" />
+    <path
+       class="cls-12"
+       d="m 46,17.93 a 7.18,7.18 0 0 0 2,0 V 14 h -2 z"
+       id="path781" />
+  </g>
+</svg>

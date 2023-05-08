@@ -1,1 +1,257 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg1654" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs1583"><style id="style1581">.prefix__cls-2{fill:#ccc}.prefix__cls-3{fill:#5f443e}.prefix__cls-4{fill:#7f5b53}.prefix__cls-5{fill:#71c285}.prefix__cls-6{fill:#f2f2f2}.prefix__cls-8{fill:#396143}</style></defs><g data-name="Layer 5" id="prefix__Layer_5" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path d="M57 2a5 5 0 00-5 5 4.94 4.94 0 00.13 1.1A4 4 0 0049 12a4 4 0 00.73 2.29 3 3 0 104.06 1.63A4 4 0 0057 12a5 5 0 000-10z" id="prefix__path1587" fill="#999"/><path class="prefix__cls-2" d="M52 7a4.94 4.94 0 00.13 1.1A4 4 0 0049 12a4 4 0 00.73 2.29A3 3 0 0048 17a2.89 2.89 0 00.18 1 3 3 0 002.61-4.06A4 4 0 0054 10a5 5 0 004.08-7.88A5.5 5.5 0 0057 2a5 5 0 00-5 5z" id="prefix__path1589"/><path class="prefix__cls-3" id="prefix__rect1591" d="M48 24h6v18h-6z"/><path class="prefix__cls-4" id="prefix__rect1593" d="M48 24h3v18h-3z"/><path class="prefix__cls-5" id="prefix__polygon1595" d="M60 42v16H32V32z"/><path class="prefix__cls-2" id="prefix__polyline1597" d="M36 58V48h8v10"/><path class="prefix__cls-6" id="prefix__rect1599" d="M36 48h5v10h-5z"/><path class="prefix__cls-2" id="prefix__polyline1601" d="M48 58V48h8v10"/><path class="prefix__cls-6" id="prefix__rect1603" d="M48 48h5v10h-5z"/><path id="prefix__polyline1605" fill="#cbb292" d="M4 58V10h28v48"/><path class="prefix__cls-2" id="prefix__rect1607" d="M4 46h4v12H4z"/><path class="prefix__cls-6" id="prefix__rect1609" d="M8 46h4v12H8z"/><path class="prefix__cls-2" id="prefix__rect1611" d="M12 46h4v12h-4z"/><path class="prefix__cls-6" id="prefix__rect1613" d="M16 46h4v12h-4z"/><path class="prefix__cls-2" id="prefix__rect1615" d="M20 46h4v12h-4z"/><path class="prefix__cls-6" id="prefix__rect1617" d="M24 46h4v12h-4z"/><path class="prefix__cls-2" id="prefix__rect1619" d="M28 46h4v12h-4z"/><path class="prefix__cls-2" id="prefix__rect1621" d="M8 14h20v4H8z"/><path class="prefix__cls-6" id="prefix__rect1623" d="M8 14h17v4H8z"/><path class="prefix__cls-2" id="prefix__rect1625" d="M8 22h20v4H8z"/><path class="prefix__cls-6" id="prefix__rect1627" d="M8 22h17v4H8z"/><path class="prefix__cls-2" id="prefix__rect1629" d="M8 30h20v4H8z"/><path class="prefix__cls-6" id="prefix__rect1631" d="M8 30h17v4H8z"/><path class="prefix__cls-2" id="prefix__rect1633" d="M8 38h20v4H8z"/><path class="prefix__cls-6" id="prefix__rect1635" d="M8 38h17v4H8z"/><path class="prefix__cls-5" id="prefix__polyline1637" d="M6 10V2h24v8"/><path class="prefix__cls-3" id="prefix__rect1639" d="M2 58h60v4H2z"/><path class="prefix__cls-4" id="prefix__rect1641" d="M2 58h57v4H2z"/><path class="prefix__cls-8" id="prefix__rect1643" d="M9 5h2v2H9z"/><path class="prefix__cls-8" id="prefix__rect1645" d="M13 5h2v2h-2z"/><path class="prefix__cls-8" id="prefix__rect1647" d="M17 5h2v2h-2z"/><path class="prefix__cls-8" id="prefix__rect1649" d="M21 5h2v2h-2z"/><path class="prefix__cls-8" id="prefix__rect1651" d="M25 5h2v2h-2z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg1654"
+   sodipodi:docname="architecture-contamination-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1656"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1654" />
+  <defs
+     id="defs1583">
+    <style
+       id="style1581">.cls-1{fill:#999;}.cls-2{fill:#ccc;}.cls-3{fill:#5f443e;}.cls-4{fill:#7f5b53;}.cls-5{fill:#71c285;}.cls-6{fill:#f2f2f2;}.cls-7{fill:#cbb292;}.cls-8{fill:#396143;}</style>
+  </defs>
+  <title
+     id="title1585" />
+  <g
+     data-name="Layer 5"
+     id="Layer_5"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <path
+       class="cls-1"
+       d="M 57,2 A 5,5 0 0 0 52,7 4.94,4.94 0 0 0 52.13,8.1 4,4 0 0 0 49,12 4,4 0 0 0 49.73,14.29 3,3 0 1 0 53.79,15.92 4,4 0 0 0 57,12 5,5 0 0 0 57,2 Z"
+       id="path1587" />
+    <path
+       class="cls-2"
+       d="M 52,7 A 4.94,4.94 0 0 0 52.13,8.1 4,4 0 0 0 49,12 4,4 0 0 0 49.73,14.29 3,3 0 0 0 48,17 2.89,2.89 0 0 0 48.18,18 3,3 0 0 0 50.79,13.94 4,4 0 0 0 54,10 5,5 0 0 0 58.08,2.12 5.5,5.5 0 0 0 57,2 5,5 0 0 0 52,7 Z"
+       id="path1589" />
+    <rect
+       class="cls-3"
+       height="18"
+       width="6"
+       x="48"
+       y="24"
+       id="rect1591" />
+    <rect
+       class="cls-4"
+       height="18"
+       width="3"
+       x="48"
+       y="24"
+       id="rect1593" />
+    <polygon
+       class="cls-5"
+       points="60,42 60,58 32,58 32,32 "
+       id="polygon1595" />
+    <polyline
+       class="cls-2"
+       points="36 58 36 48 44 48 44 58"
+       id="polyline1597" />
+    <rect
+       class="cls-6"
+       height="10"
+       width="5"
+       x="36"
+       y="48"
+       id="rect1599" />
+    <polyline
+       class="cls-2"
+       points="48 58 48 48 56 48 56 58"
+       id="polyline1601" />
+    <rect
+       class="cls-6"
+       height="10"
+       width="5"
+       x="48"
+       y="48"
+       id="rect1603" />
+    <polyline
+       class="cls-7"
+       points="4 58 4 10 32 10 32 58"
+       id="polyline1605" />
+    <rect
+       class="cls-2"
+       height="12"
+       width="4"
+       x="4"
+       y="46"
+       id="rect1607" />
+    <rect
+       class="cls-6"
+       height="12"
+       width="4"
+       x="8"
+       y="46"
+       id="rect1609" />
+    <rect
+       class="cls-2"
+       height="12"
+       width="4"
+       x="12"
+       y="46"
+       id="rect1611" />
+    <rect
+       class="cls-6"
+       height="12"
+       width="4"
+       x="16"
+       y="46"
+       id="rect1613" />
+    <rect
+       class="cls-2"
+       height="12"
+       width="4"
+       x="20"
+       y="46"
+       id="rect1615" />
+    <rect
+       class="cls-6"
+       height="12"
+       width="4"
+       x="24"
+       y="46"
+       id="rect1617" />
+    <rect
+       class="cls-2"
+       height="12"
+       width="4"
+       x="28"
+       y="46"
+       id="rect1619" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="20"
+       x="8"
+       y="14"
+       id="rect1621" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="17"
+       x="8"
+       y="14"
+       id="rect1623" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="20"
+       x="8"
+       y="22"
+       id="rect1625" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="17"
+       x="8"
+       y="22"
+       id="rect1627" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="20"
+       x="8"
+       y="30"
+       id="rect1629" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="17"
+       x="8"
+       y="30"
+       id="rect1631" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="20"
+       x="8"
+       y="38"
+       id="rect1633" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="17"
+       x="8"
+       y="38"
+       id="rect1635" />
+    <polyline
+       class="cls-5"
+       points="6 10 6 2 30 2 30 10"
+       id="polyline1637" />
+    <rect
+       class="cls-3"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect1639" />
+    <rect
+       class="cls-4"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect1641" />
+    <rect
+       class="cls-8"
+       height="2"
+       width="2"
+       x="9"
+       y="5"
+       id="rect1643" />
+    <rect
+       class="cls-8"
+       height="2"
+       width="2"
+       x="13"
+       y="5"
+       id="rect1645" />
+    <rect
+       class="cls-8"
+       height="2"
+       width="2"
+       x="17"
+       y="5"
+       id="rect1647" />
+    <rect
+       class="cls-8"
+       height="2"
+       width="2"
+       x="21"
+       y="5"
+       id="rect1649" />
+    <rect
+       class="cls-8"
+       height="2"
+       width="2"
+       x="25"
+       y="5"
+       id="rect1651" />
+  </g>
+</svg>

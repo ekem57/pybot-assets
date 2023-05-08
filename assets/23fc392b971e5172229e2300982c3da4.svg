@@ -1,1 +1,103 @@
-<svg width="140" height="122.5" viewBox="0 0 179.2 156.8" class="prefix__icon" xmlns="http://www.w3.org/2000/svg"><path d="M100.8 11.2a5.6 5.6 0 00-5.6-5.6 5.6 5.6 0 10-11.2 0 5.6 5.6 0 00-5.6 5.6v5.6H84v28h11.2v-28h5.6z" fill="#dae2e5"/><path d="M5.6 56v89.6a5.6 5.6 0 005.6 5.6H168a5.6 5.6 0 005.6-5.6V56z" fill="#eaca44"/><path d="M112 112V84a5.6 5.6 0 10-11.2 0v28a5.6 5.6 0 1011.2 0z" fill="#434854"/><path d="M106.4 117.6a5.6 5.6 0 01-5.6-5.6v5.6a5.6 5.6 0 1011.2 0V112a5.6 5.6 0 01-5.6 5.6z"/><path d="M78.4 112V84a5.6 5.6 0 10-11.2 0v28a5.6 5.6 0 1011.2 0z" fill="#434854"/><path d="M72.8 117.6a5.6 5.6 0 01-5.6-5.6v5.6a5.6 5.6 0 1011.2 0V112a5.6 5.6 0 01-5.6 5.6z"/><path d="M140 151.2h22.4v5.6H140zm-123.2 0h22.4v5.6H16.8zM0 44.8h179.2V56H0z" fill="#434854"/><path d="M5.6 56h168v5.6H5.6z"/><path d="M72.8 39.2a5.6 5.6 0 00-5.6 5.6h11.2a5.6 5.6 0 00-5.6-5.6z" fill="#469fcc"/><path d="M106.4 39.2a5.6 5.6 0 00-5.6 5.6H112a5.6 5.6 0 00-5.6-5.6z" fill="#ef4d4d"/><path d="M84 16.8h11.2v5.6H84z"/><path d="M95.2 5.6H84a5.6 5.6 0 00-5.6 5.6v5.6a5.6 5.6 0 015.6-5.6h11.2a5.6 5.6 0 015.6 5.6v-5.6a5.6 5.6 0 00-5.6-5.6z" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="122.5"
+   viewBox="0 0 179.2 156.8"
+   class="icon"
+   version="1.1"
+   id="svg442"
+   sodipodi:docname="washbasin-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs446" />
+  <sodipodi:namedview
+     id="namedview444"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="399.5221"
+     inkscape:cy="350.77658"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg442" />
+  <path
+     d="M 100.8,11.2 A 5.6,5.6 0 0 0 95.2,5.6 5.6,5.6 0 1 0 84,5.6 5.6,5.6 0 0 0 78.4,11.2 v 5.6 H 84 v 28 h 11.2 v -28 h 5.6 z"
+     fill="#dae2e5"
+     id="path416"
+     style="stroke-width:0.175" />
+  <path
+     d="m 5.6,56 v 89.6 a 5.6,5.6 0 0 0 5.6,5.6 H 168 a 5.6,5.6 0 0 0 5.6,-5.6 V 56 Z"
+     fill="#eaca44"
+     id="path418"
+     style="stroke-width:0.175" />
+  <path
+     d="M 112,112 V 84 a 5.6,5.6 0 1 0 -11.2,0 v 28 a 5.6,5.6 0 1 0 11.2,0 z"
+     fill="#434854"
+     id="path420"
+     style="stroke-width:0.175" />
+  <path
+     d="m 106.4,117.6 a 5.6,5.6 0 0 1 -5.6,-5.6 v 5.6 a 5.6,5.6 0 1 0 11.2,0 V 112 a 5.6,5.6 0 0 1 -5.6,5.6 z"
+     fill=""
+     id="path422"
+     style="stroke-width:0.175" />
+  <path
+     d="M 78.4,112 V 84 a 5.6,5.6 0 1 0 -11.2,0 v 28 a 5.6,5.6 0 1 0 11.2,0 z"
+     fill="#434854"
+     id="path424"
+     style="stroke-width:0.175" />
+  <path
+     d="M 72.8,117.6 A 5.6,5.6 0 0 1 67.2,112 v 5.6 a 5.6,5.6 0 1 0 11.2,0 V 112 a 5.6,5.6 0 0 1 -5.6,5.6 z"
+     fill=""
+     id="path426"
+     style="stroke-width:0.175" />
+  <path
+     d="m 140,151.2 h 22.4 v 5.6 H 140 Z m -123.2,0 h 22.4 v 5.6 H 16.8 Z"
+     fill="#434854"
+     id="path428"
+     style="stroke-width:0.175" />
+  <path
+     d="M 0,44.8 H 179.2 V 56 H 0 Z"
+     fill="#434854"
+     id="path430"
+     style="stroke-width:0.175" />
+  <path
+     d="m 5.6,56 h 168 v 5.6 H 5.6 Z"
+     fill=""
+     id="path432"
+     style="stroke-width:0.175" />
+  <path
+     d="m 72.8,39.2 a 5.6,5.6 0 0 0 -5.6,5.6 h 11.2 a 5.6,5.6 0 0 0 -5.6,-5.6 z"
+     fill="#469fcc"
+     id="path434"
+     style="stroke-width:0.175" />
+  <path
+     d="m 106.4,39.2 a 5.6,5.6 0 0 0 -5.6,5.6 H 112 a 5.6,5.6 0 0 0 -5.6,-5.6 z"
+     fill="#ef4d4d"
+     id="path436"
+     style="stroke-width:0.175" />
+  <path
+     d="m 84,16.8 h 11.2 v 5.6 H 84 Z"
+     fill=""
+     id="path438"
+     style="stroke-width:0.175" />
+  <path
+     d="M 95.2,5.6 H 84 a 5.6,5.6 0 0 0 -5.6,5.6 v 5.6 A 5.6,5.6 0 0 1 84,11.2 h 11.2 a 5.6,5.6 0 0 1 5.6,5.6 V 11.2 A 5.6,5.6 0 0 0 95.2,5.6 Z"
+     fill="#ffffff"
+     id="path440"
+     style="stroke-width:0.175" />
+</svg>

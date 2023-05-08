@@ -1,1 +1,169 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg1713" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs1666"><style id="style1664">.prefix__cls-3{fill:#849eb4}.prefix__cls-4{fill:#b0d3f0}.prefix__cls-5{fill:#98856e}.prefix__cls-6{fill:#cbb292}</style></defs><g data-name="Layer 10" id="prefix__Layer_10" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path id="prefix__polygon1670" fill="#ccc" d="M18 58V38l14-14 14 14v20z"/><path id="prefix__polygon1672" fill="#f2f2f2" d="M43 38L30.5 25.5 18 38v20h25z"/><path class="prefix__cls-3" id="prefix__rect1674" d="M35 38h6v4h-6z"/><path class="prefix__cls-4" id="prefix__rect1676" d="M35 38h3v4h-3z"/><path class="prefix__cls-3" id="prefix__rect1678" d="M23 38h6v4h-6z"/><path class="prefix__cls-4" id="prefix__rect1680" d="M23 38h3v4h-3z"/><path class="prefix__cls-5" id="prefix__polyline1682" d="M28 58V46h8v12"/><path class="prefix__cls-6" id="prefix__rect1684" d="M28 46h5v12h-5z"/><path class="prefix__cls-5" id="prefix__rect1686" d="M46 46h14v12H46z"/><path class="prefix__cls-6" id="prefix__rect1688" d="M46 46h11v12H46z"/><path class="prefix__cls-5" id="prefix__rect1690" d="M4 46h14v12H4z"/><path class="prefix__cls-6" id="prefix__rect1692" d="M4 46h11v12H4z"/><path id="prefix__rect1694" fill="#5f443e" d="M2 58h60v4H2z"/><path id="prefix__rect1696" fill="#7f5b53" d="M2 58h57v4H2z"/><path id="prefix__polygon1698" fill="#e64c3c" d="M32 24L18 38h-6l20-20 20 20h-6z"/><circle cx="32" cy="8" r="6" id="prefix__circle1700" fill="#b49313"/><ellipse cx="30.5" cy="8" rx="4.5" ry="5.8" id="prefix__ellipse1702" fill="#f0c419"/><path class="prefix__cls-3" d="M38 10a3.94 3.94 0 011.09.17A4 4 0 0143 7a3.93 3.93 0 012.48.89A5 5 0 0155 10v.15a3.74 3.74 0 011-.15 4 4 0 11-2.58 7 4 4 0 01-6.84 0 3.95 3.95 0 01-5.58-.38A4 4 0 1138 10z" id="prefix__path1704"/><path class="prefix__cls-4" d="M58.29 17.27A4 4 0 0054.7 15a3.74 3.74 0 00-1 .15V15a5 5 0 00-9.51-2.11A4 4 0 0041.7 12a4 4 0 00-3.91 3.17 3.83 3.83 0 00-3.38.56 4 4 0 006.59.89 3.95 3.95 0 005.58.42 4 4 0 006.84 0 4 4 0 004.87.23z" id="prefix__path1706"/><path class="prefix__cls-3" d="M26 7a3.94 3.94 0 00-1.09.17A4 4 0 0021 4a3.93 3.93 0 00-2.48.89A5 5 0 009 7v.15A3.74 3.74 0 008 7a4 4 0 102.58 7 4 4 0 006.84 0 3.95 3.95 0 005.58-.38A4 4 0 1026 7z" id="prefix__path1708"/><path class="prefix__cls-4" d="M5.71 14.27A4 4 0 019.3 12a3.74 3.74 0 011 .15V12a5 5 0 019.51-2.11A4 4 0 0122.3 9a4 4 0 013.91 3.17 3.83 3.83 0 013.38.56 4 4 0 01-6.59.89 3.95 3.95 0 01-5.58.42 4 4 0 01-6.84 0 4 4 0 01-4.87.23z" id="prefix__path1710"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg1713"
+   sodipodi:docname="architecture-estate-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1715"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1713" />
+  <defs
+     id="defs1666">
+    <style
+       id="style1664">.cls-1{fill:#ccc;}.cls-2{fill:#f2f2f2;}.cls-3{fill:#849eb4;}.cls-4{fill:#b0d3f0;}.cls-5{fill:#98856e;}.cls-6{fill:#cbb292;}.cls-7{fill:#5f443e;}.cls-8{fill:#7f5b53;}.cls-9{fill:#e64c3c;}.cls-10{fill:#b49313;}.cls-11{fill:#f0c419;}</style>
+  </defs>
+  <title
+     id="title1668" />
+  <g
+     data-name="Layer 10"
+     id="Layer_10"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <polygon
+       class="cls-1"
+       points="18,58 18,38 32,24 46,38 46,58 "
+       id="polygon1670" />
+    <polygon
+       class="cls-2"
+       points="43,38 30.5,25.5 18,38 18,58 43,58 "
+       id="polygon1672" />
+    <rect
+       class="cls-3"
+       height="4"
+       width="6"
+       x="35"
+       y="38"
+       id="rect1674" />
+    <rect
+       class="cls-4"
+       height="4"
+       width="3"
+       x="35"
+       y="38"
+       id="rect1676" />
+    <rect
+       class="cls-3"
+       height="4"
+       width="6"
+       x="23"
+       y="38"
+       id="rect1678" />
+    <rect
+       class="cls-4"
+       height="4"
+       width="3"
+       x="23"
+       y="38"
+       id="rect1680" />
+    <polyline
+       class="cls-5"
+       points="28 58 28 46 36 46 36 58"
+       id="polyline1682" />
+    <rect
+       class="cls-6"
+       height="12"
+       width="5"
+       x="28"
+       y="46"
+       id="rect1684" />
+    <rect
+       class="cls-5"
+       height="12"
+       width="14"
+       x="46"
+       y="46"
+       id="rect1686" />
+    <rect
+       class="cls-6"
+       height="12"
+       width="11"
+       x="46"
+       y="46"
+       id="rect1688" />
+    <rect
+       class="cls-5"
+       height="12"
+       width="14"
+       x="4"
+       y="46"
+       id="rect1690" />
+    <rect
+       class="cls-6"
+       height="12"
+       width="11"
+       x="4"
+       y="46"
+       id="rect1692" />
+    <rect
+       class="cls-7"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect1694" />
+    <rect
+       class="cls-8"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect1696" />
+    <polygon
+       class="cls-9"
+       points="32,24 18,38 12,38 32,18 52,38 46,38 "
+       id="polygon1698" />
+    <circle
+       class="cls-10"
+       cx="32"
+       cy="8"
+       r="6"
+       id="circle1700" />
+    <ellipse
+       class="cls-11"
+       cx="30.5"
+       cy="8"
+       rx="4.5"
+       ry="5.8000002"
+       id="ellipse1702" />
+    <path
+       class="cls-3"
+       d="M 38,10 A 3.94,3.94 0 0 1 39.09,10.17 4,4 0 0 1 43,7 3.93,3.93 0 0 1 45.48,7.89 5,5 0 0 1 55,10 c 0,0.05 0,0.1 0,0.15 A 3.74,3.74 0 0 1 56,10 4,4 0 1 1 53.42,17 4,4 0 0 1 46.58,17 3.95,3.95 0 0 1 41,16.62 4,4 0 1 1 38,10 Z"
+       id="path1704" />
+    <path
+       class="cls-4"
+       d="M 58.29,17.27 A 4,4 0 0 0 54.7,15 a 3.74,3.74 0 0 0 -1,0.15 c 0,-0.05 0,-0.1 0,-0.15 A 5,5 0 0 0 44.19,12.89 4,4 0 0 0 41.7,12 a 4,4 0 0 0 -3.91,3.17 3.83,3.83 0 0 0 -3.38,0.56 4,4 0 0 0 6.59,0.89 3.95,3.95 0 0 0 5.58,0.42 4,4 0 0 0 6.84,0 4,4 0 0 0 4.87,0.23 z"
+       id="path1706" />
+    <path
+       class="cls-3"
+       d="M 26,7 A 3.94,3.94 0 0 0 24.91,7.17 4,4 0 0 0 21,4 3.93,3.93 0 0 0 18.52,4.89 5,5 0 0 0 9,7 C 9,7 9,7.1 9,7.15 A 3.74,3.74 0 0 0 8,7 4,4 0 1 0 10.58,14 4,4 0 0 0 17.42,14 3.95,3.95 0 0 0 23,13.62 4,4 0 1 0 26,7 Z"
+       id="path1708" />
+    <path
+       class="cls-4"
+       d="M 5.71,14.27 A 4,4 0 0 1 9.3,12 a 3.74,3.74 0 0 1 1,0.15 c 0,-0.05 0,-0.1 0,-0.15 A 5,5 0 0 1 19.81,9.89 4,4 0 0 1 22.3,9 a 4,4 0 0 1 3.91,3.17 3.83,3.83 0 0 1 3.38,0.56 4,4 0 0 1 -6.59,0.89 3.95,3.95 0 0 1 -5.58,0.42 4,4 0 0 1 -6.84,0 4,4 0 0 1 -4.87,0.23 z"
+       id="path1710" />
+  </g>
+</svg>

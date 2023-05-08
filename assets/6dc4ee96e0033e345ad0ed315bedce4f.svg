@@ -1,1 +1,127 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg699" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs670"><style id="style668">.prefix__cls-1{fill:#5f443e}.prefix__cls-2{fill:#7f5b53}.prefix__cls-9{fill:#999}</style></defs><g data-name="Layer 22" id="prefix__Layer_22" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path class="prefix__cls-1" id="prefix__rect674" d="M2 58h60v4H2z"/><path class="prefix__cls-2" id="prefix__rect676" d="M2 58h57v4H2z"/><path class="prefix__cls-1" id="prefix__rect678" d="M28 44h8v14h-8z"/><path class="prefix__cls-2" id="prefix__rect680" d="M28 44h5v14h-5z"/><path d="M49.9 58a5 5 0 00-4.9-4 4.93 4.93 0 00-1.09.13 5 5 0 00-9.82 0A4.93 4.93 0 0033 54a5.47 5.47 0 00-1 .1 5.47 5.47 0 00-1-.1 4.93 4.93 0 00-1.09.13 5 5 0 00-9.82 0A4.93 4.93 0 0019 54a5 5 0 00-4.9 4" id="prefix__path682" fill="#71c285"/><path id="prefix__rect684" fill="#98856e" d="M30 26h4v18h-4z"/><path id="prefix__rect686" fill="#cbb292" d="M30 26h2v18h-2z"/><rect height="24" rx="2" ry="2" width="22" x="21" y="2" id="prefix__rect688" fill="#4482c3"/><path id="prefix__rect690" fill="#ccc" d="M25 6h14v16H25z"/><path id="prefix__rect692" fill="#f2f2f2" d="M25 6h11v16H25z"/><path class="prefix__cls-9" d="M33 15h-4a1 1 0 01-1-1v-4a1 1 0 011-1h4a3 3 0 010 6zm-3-2h3a1 1 0 000-2h-3z" id="prefix__path694"/><path class="prefix__cls-9" id="prefix__rect696" d="M28 14h2v5h-2z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg699"
+   sodipodi:docname="architecture-automobile-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview701"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg699" />
+  <defs
+     id="defs670">
+    <style
+       id="style668">.cls-1{fill:#5f443e;}.cls-2{fill:#7f5b53;}.cls-3{fill:#71c285;}.cls-4{fill:#98856e;}.cls-5{fill:#cbb292;}.cls-6{fill:#4482c3;}.cls-7{fill:#ccc;}.cls-8{fill:#f2f2f2;}.cls-9{fill:#999;}</style>
+  </defs>
+  <title
+     id="title672" />
+  <g
+     data-name="Layer 22"
+     id="Layer_22"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <rect
+       class="cls-1"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect674" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect676" />
+    <rect
+       class="cls-1"
+       height="14"
+       width="8"
+       x="28"
+       y="44"
+       id="rect678" />
+    <rect
+       class="cls-2"
+       height="14"
+       width="5"
+       x="28"
+       y="44"
+       id="rect680" />
+    <path
+       class="cls-3"
+       d="m 49.9,58 a 5,5 0 0 0 -4.9,-4 4.93,4.93 0 0 0 -1.09,0.13 5,5 0 0 0 -9.82,0 A 4.93,4.93 0 0 0 33,54 5.47,5.47 0 0 0 32,54.1 5.47,5.47 0 0 0 31,54 a 4.93,4.93 0 0 0 -1.09,0.13 5,5 0 0 0 -9.82,0 A 4.93,4.93 0 0 0 19,54 5,5 0 0 0 14.1,58"
+       id="path682" />
+    <rect
+       class="cls-4"
+       height="18"
+       width="4"
+       x="30"
+       y="26"
+       id="rect684" />
+    <rect
+       class="cls-5"
+       height="18"
+       width="2"
+       x="30"
+       y="26"
+       id="rect686" />
+    <rect
+       class="cls-6"
+       height="24"
+       rx="2"
+       ry="2"
+       width="22"
+       x="21"
+       y="2"
+       id="rect688" />
+    <rect
+       class="cls-7"
+       height="16"
+       width="14"
+       x="25"
+       y="6"
+       id="rect690" />
+    <rect
+       class="cls-8"
+       height="16"
+       width="11"
+       x="25"
+       y="6"
+       id="rect692" />
+    <path
+       class="cls-9"
+       d="m 33,15 h -4 a 1,1 0 0 1 -1,-1 v -4 a 1,1 0 0 1 1,-1 h 4 a 3,3 0 0 1 0,6 z m -3,-2 h 3 a 1,1 0 0 0 0,-2 h -3 z"
+       id="path694" />
+    <rect
+       class="cls-9"
+       height="5"
+       width="2"
+       x="28"
+       y="14"
+       id="rect696" />
+  </g>
+</svg>

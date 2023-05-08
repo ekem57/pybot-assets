@@ -1,1 +1,326 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg964" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs867"><style id="style865">.prefix__cls-1{fill:#98856e}.prefix__cls-2{fill:#cbb292}.prefix__cls-4{fill:#993839}.prefix__cls-7{fill:#ccc}.prefix__cls-8{fill:#f2f2f2}.prefix__cls-9{fill:#b49313}.prefix__cls-10{fill:#f0c419}.prefix__cls-11{fill:#559264}.prefix__cls-12{fill:#71c285}.prefix__cls-13{fill:#cc4b4c}</style></defs><g data-name="Layer 28" id="prefix__Layer_28" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path class="prefix__cls-1" id="prefix__rect871" d="M4 12h56v46H4z"/><path class="prefix__cls-2" id="prefix__rect873" d="M4 12h53v46H4z"/><path d="M42 58V41a7 7 0 017-7 7 7 0 017 7v17" id="prefix__path875" fill="#732a2b"/><path class="prefix__cls-4" d="M47.5 34.17A7 7 0 0042 41v17h11V41a7 7 0 00-5.5-6.83z" id="prefix__path877"/><path id="prefix__rect879" fill="#5f443e" d="M2 58h60v4H2z"/><path id="prefix__rect881" fill="#7f5b53" d="M2 58h56v4H2z"/><path class="prefix__cls-7" id="prefix__rect883" d="M8 30h28v24H8z"/><path class="prefix__cls-8" id="prefix__rect885" d="M8 30h25v24H8z"/><path class="prefix__cls-9" id="prefix__rect887" d="M12 36h4v6h-4z"/><path class="prefix__cls-10" id="prefix__rect889" d="M12 36h2v6h-2z"/><path class="prefix__cls-1" id="prefix__rect891" d="M20 36h4v6h-4z"/><path class="prefix__cls-2" id="prefix__rect893" d="M20 36h2v6h-2z"/><path class="prefix__cls-11" id="prefix__rect895" d="M20 48h4v6h-4z"/><path class="prefix__cls-12" id="prefix__rect897" d="M20 48h2v6h-2z"/><path class="prefix__cls-11" id="prefix__rect899" d="M28 48h4v6h-4z"/><path class="prefix__cls-12" id="prefix__rect901" d="M28 48h2v6h-2z"/><path class="prefix__cls-9" id="prefix__rect903" d="M24 34h4v8h-4z"/><path class="prefix__cls-10" id="prefix__rect905" d="M24 34h2v8h-2z"/><path class="prefix__cls-11" id="prefix__rect907" d="M16 34h4v8h-4z"/><path class="prefix__cls-12" id="prefix__rect909" d="M16 34h2v8h-2z"/><path class="prefix__cls-4" id="prefix__rect911" d="M8 34h4v8H8z"/><path class="prefix__cls-13" id="prefix__rect913" d="M8 34h2v8H8z"/><path class="prefix__cls-1" id="prefix__rect915" d="M16 46h4v8h-4z"/><path class="prefix__cls-2" id="prefix__rect917" d="M16 46h2v8h-2z"/><path class="prefix__cls-4" id="prefix__rect919" d="M24 46h4v8h-4z"/><path class="prefix__cls-13" id="prefix__rect921" d="M24 46h2v8h-2z"/><path class="prefix__cls-1" id="prefix__rect923" d="M32 46h4v8h-4z"/><path class="prefix__cls-2" id="prefix__rect925" d="M32 46h2v8h-2z"/><path class="prefix__cls-4" d="M32 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path927"/><path class="prefix__cls-13" d="M35.5 25.75A5 5 0 0039 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path929"/><path class="prefix__cls-4" d="M22 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path931"/><path class="prefix__cls-13" d="M25.5 25.75A5 5 0 0029 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path933"/><circle class="prefix__cls-7" cx="32" cy="13" r="11" id="prefix__circle935"/><ellipse class="prefix__cls-8" cx="30.5" cy="13" rx="9.5" ry="10.89" id="prefix__ellipse937"/><path class="prefix__cls-1" id="prefix__rect939" d="M31 8h6v10h-6z"/><path class="prefix__cls-2" id="prefix__rect941" d="M27 8h4v10h-4z"/><path class="prefix__cls-4" d="M52 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path943"/><path class="prefix__cls-13" d="M55.5 25.75A5 5 0 0059 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path945"/><path class="prefix__cls-4" d="M42 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path947"/><path class="prefix__cls-13" d="M45.5 25.75A5 5 0 0049 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path949"/><path class="prefix__cls-4" d="M12 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path951"/><path class="prefix__cls-13" d="M15.5 25.75A5 5 0 0019 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path953"/><path class="prefix__cls-4" d="M2 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path955"/><path class="prefix__cls-13" d="M5.5 25.75A5 5 0 009 21v-9H2v9a5 5 0 003.5 4.75z" id="prefix__path957"/><path id="prefix__rect959" fill="#666" d="M8 41h28v2H8z"/><path class="prefix__cls-7" id="prefix__rect961" d="M45 45h2v4h-2z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg964"
+   sodipodi:docname="architecture-book-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview966"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg964" />
+  <defs
+     id="defs867">
+    <style
+       id="style865">.cls-1{fill:#98856e;}.cls-2{fill:#cbb292;}.cls-3{fill:#732a2b;}.cls-4{fill:#993839;}.cls-5{fill:#5f443e;}.cls-6{fill:#7f5b53;}.cls-7{fill:#ccc;}.cls-8{fill:#f2f2f2;}.cls-9{fill:#b49313;}.cls-10{fill:#f0c419;}.cls-11{fill:#559264;}.cls-12{fill:#71c285;}.cls-13{fill:#cc4b4c;}.cls-14{fill:#666;}</style>
+  </defs>
+  <title
+     id="title869" />
+  <g
+     data-name="Layer 28"
+     id="Layer_28"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <rect
+       class="cls-1"
+       height="46"
+       width="56"
+       x="4"
+       y="12"
+       id="rect871" />
+    <rect
+       class="cls-2"
+       height="46"
+       width="53"
+       x="4"
+       y="12"
+       id="rect873" />
+    <path
+       class="cls-3"
+       d="M 42,58 V 41 a 7,7 0 0 1 7,-7 v 0 a 7,7 0 0 1 7,7 v 17"
+       id="path875" />
+    <path
+       class="cls-4"
+       d="M 47.5,34.17 A 7,7 0 0 0 42,41 V 58 H 53 V 41 a 7,7 0 0 0 -5.5,-6.83 z"
+       id="path877" />
+    <rect
+       class="cls-5"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect879" />
+    <rect
+       class="cls-6"
+       height="4"
+       width="56"
+       x="2"
+       y="58"
+       id="rect881" />
+    <rect
+       class="cls-7"
+       height="24"
+       width="28"
+       x="8"
+       y="30"
+       id="rect883" />
+    <rect
+       class="cls-8"
+       height="24"
+       width="25"
+       x="8"
+       y="30"
+       id="rect885" />
+    <rect
+       class="cls-9"
+       height="6"
+       width="4"
+       x="12"
+       y="36"
+       id="rect887" />
+    <rect
+       class="cls-10"
+       height="6"
+       width="2"
+       x="12"
+       y="36"
+       id="rect889" />
+    <rect
+       class="cls-1"
+       height="6"
+       width="4"
+       x="20"
+       y="36"
+       id="rect891" />
+    <rect
+       class="cls-2"
+       height="6"
+       width="2"
+       x="20"
+       y="36"
+       id="rect893" />
+    <rect
+       class="cls-11"
+       height="6"
+       width="4"
+       x="20"
+       y="48"
+       id="rect895" />
+    <rect
+       class="cls-12"
+       height="6"
+       width="2"
+       x="20"
+       y="48"
+       id="rect897" />
+    <rect
+       class="cls-11"
+       height="6"
+       width="4"
+       x="28"
+       y="48"
+       id="rect899" />
+    <rect
+       class="cls-12"
+       height="6"
+       width="2"
+       x="28"
+       y="48"
+       id="rect901" />
+    <rect
+       class="cls-9"
+       height="8"
+       width="4"
+       x="24"
+       y="34"
+       id="rect903" />
+    <rect
+       class="cls-10"
+       height="8"
+       width="2"
+       x="24"
+       y="34"
+       id="rect905" />
+    <rect
+       class="cls-11"
+       height="8"
+       width="4"
+       x="16"
+       y="34"
+       id="rect907" />
+    <rect
+       class="cls-12"
+       height="8"
+       width="2"
+       x="16"
+       y="34"
+       id="rect909" />
+    <rect
+       class="cls-4"
+       height="8"
+       width="4"
+       x="8"
+       y="34"
+       id="rect911" />
+    <rect
+       class="cls-13"
+       height="8"
+       width="2"
+       x="8"
+       y="34"
+       id="rect913" />
+    <rect
+       class="cls-1"
+       height="8"
+       width="4"
+       x="16"
+       y="46"
+       id="rect915" />
+    <rect
+       class="cls-2"
+       height="8"
+       width="2"
+       x="16"
+       y="46"
+       id="rect917" />
+    <rect
+       class="cls-4"
+       height="8"
+       width="4"
+       x="24"
+       y="46"
+       id="rect919" />
+    <rect
+       class="cls-13"
+       height="8"
+       width="2"
+       x="24"
+       y="46"
+       id="rect921" />
+    <rect
+       class="cls-1"
+       height="8"
+       width="4"
+       x="32"
+       y="46"
+       id="rect923" />
+    <rect
+       class="cls-2"
+       height="8"
+       width="2"
+       x="32"
+       y="46"
+       id="rect925" />
+    <path
+       class="cls-4"
+       d="m 32,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path927" />
+    <path
+       class="cls-13"
+       d="M 35.5,25.75 A 5,5 0 0 0 39,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path929" />
+    <path
+       class="cls-4"
+       d="m 22,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path931" />
+    <path
+       class="cls-13"
+       d="M 25.5,25.75 A 5,5 0 0 0 29,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path933" />
+    <circle
+       class="cls-7"
+       cx="32"
+       cy="13"
+       r="11"
+       id="circle935" />
+    <ellipse
+       class="cls-8"
+       cx="30.5"
+       cy="13"
+       rx="9.5"
+       ry="10.89"
+       id="ellipse937" />
+    <rect
+       class="cls-1"
+       height="10"
+       width="6"
+       x="31"
+       y="8"
+       id="rect939" />
+    <rect
+       class="cls-2"
+       height="10"
+       width="4"
+       x="27"
+       y="8"
+       id="rect941" />
+    <path
+       class="cls-4"
+       d="m 52,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path943" />
+    <path
+       class="cls-13"
+       d="M 55.5,25.75 A 5,5 0 0 0 59,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path945" />
+    <path
+       class="cls-4"
+       d="m 42,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path947" />
+    <path
+       class="cls-13"
+       d="M 45.5,25.75 A 5,5 0 0 0 49,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path949" />
+    <path
+       class="cls-4"
+       d="m 12,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path951" />
+    <path
+       class="cls-13"
+       d="M 15.5,25.75 A 5,5 0 0 0 19,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path953" />
+    <path
+       class="cls-4"
+       d="m 2,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 A 5,5 0 0 1 2,21 Z"
+       id="path955" />
+    <path
+       class="cls-13"
+       d="M 5.5,25.75 A 5,5 0 0 0 9,21 V 12 H 2 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path957" />
+    <rect
+       class="cls-14"
+       height="2"
+       width="28"
+       x="8"
+       y="41"
+       id="rect959" />
+    <rect
+       class="cls-7"
+       height="4"
+       width="2"
+       x="45"
+       y="45"
+       id="rect961" />
+  </g>
+</svg>

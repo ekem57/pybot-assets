@@ -1,1 +1,58 @@
-<svg width="87.5" height="140" viewBox="0 0 112 179.2" class="prefix__icon" xmlns="http://www.w3.org/2000/svg"><path d="M5.6 56a50.4 56 0 10100.8 0A50.4 56 0 105.6 56z" fill="#eaca44"/><path d="M56 11.2c21.61 0 39.2 20.098 39.2 44.8 0 24.702-17.59 44.8-39.2 44.8-21.61 0-39.2-20.098-39.2-44.8 0-24.702 17.59-44.8 39.2-44.8M56 0C28.162 0 5.6 25.077 5.6 56s22.562 56 50.4 56c27.838 0 50.4-25.077 50.4-56S83.838 0 56 0zm50.4 112H5.6c0 21.935 14.04 40.544 33.6 47.471V173.6a5.6 5.6 0 005.6 5.6h22.4a5.6 5.6 0 005.6-5.6v-14.129c19.56-6.927 33.6-25.536 33.6-47.471z" fill="#eaeaea"/><path d="M112 106.4a5.6 5.6 0 01-5.6 5.6H5.6a5.6 5.6 0 110-11.2h100.8a5.6 5.6 0 015.6 5.6z" fill="#434854"/><path d="M56 151.2a61.477 61.477 0 01-47.471-22.344A50.523 50.523 0 0039.2 159.471V173.6a5.6 5.6 0 005.6 5.6h22.4a5.6 5.6 0 005.6-5.6v-14.129a50.523 50.523 0 0030.671-30.615A61.477 61.477 0 0156 151.2zm50.053-33.6c.207-1.842.347-3.702.347-5.6H5.6c0 1.898.14 3.758.347 5.6z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="87.5"
+   height="140"
+   viewBox="0 0 112 179.2"
+   class="icon"
+   version="1.1"
+   id="svg404"
+   sodipodi:docname="toilet-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs408" />
+  <sodipodi:namedview
+     id="namedview406"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="249.46237"
+     inkscape:cy="400.4779"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg404" />
+  <path
+     d="m 5.6000002,56.000001 a 50.4,56 0 1 0 100.7999998,0 50.4,56 0 1 0 -100.7999998,0 z"
+     fill="#eaca44"
+     id="path396"
+     style="stroke-width:0.175" />
+  <path
+     d="m 56,11.200001 c 21.6104,0 39.2,20.0984 39.2,44.8 C 95.2,80.701601 77.6104,100.8 56,100.8 34.3896,100.8 16.8,80.701601 16.8,56.000001 c 0,-24.7016 17.5896,-44.8 39.2,-44.8 M 56,8.5631694e-7 C 28.1624,8.5631694e-7 5.6000002,25.076801 5.6000002,56.000001 5.6000002,86.923201 28.1624,112 56,112 83.8376,112 106.4,86.923201 106.4,56.000001 106.4,25.076801 83.8376,8.5631694e-7 56,8.5631694e-7 Z M 106.4,112 H 5.6000002 c 0,21.9352 14.0391998,40.544 33.5999998,47.4712 V 173.6 a 5.6,5.6 0 0 0 5.6,5.6 h 22.4 a 5.6,5.6 0 0 0 5.6,-5.6 V 159.4712 C 92.3608,152.544 106.4,133.9352 106.4,112 Z"
+     fill="#eaeaea"
+     id="path398"
+     style="stroke-width:0.175" />
+  <path
+     d="m 112,106.4 a 5.6,5.6 0 0 1 -5.6,5.6 H 5.6000002 a 5.6,5.6 0 1 1 0,-11.2 H 106.4 a 5.6,5.6 0 0 1 5.6,5.6 z"
+     fill="#434854"
+     id="path400"
+     style="stroke-width:0.175" />
+  <path
+     d="M 56,151.2 A 61.4768,61.4768 0 0 1 8.5288002,128.856 50.5232,50.5232 0 0 0 39.2,159.4712 V 173.6 a 5.6,5.6 0 0 0 5.6,5.6 h 22.4 a 5.6,5.6 0 0 0 5.6,-5.6 V 159.4712 A 50.5232,50.5232 0 0 0 103.4712,128.856 61.4768,61.4768 0 0 1 56,151.2 Z m 50.0528,-33.6 C 106.26,115.7576 106.4,113.8984 106.4,112 H 5.6000002 c 0,1.8984 0.14,3.7576 0.3472,5.6 z"
+     fill=""
+     id="path402"
+     style="stroke-width:0.175" />
+</svg>

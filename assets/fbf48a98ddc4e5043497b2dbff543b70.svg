@@ -1,1 +1,93 @@
-<svg width="87.5" height="140" viewBox="0 0 112 179.2" class="prefix__icon" xmlns="http://www.w3.org/2000/svg"><path d="M100.8 95.2v-84A11.2 11.2 0 0089.6 0H22.4a11.2 11.2 0 00-11.2 11.2v84z" fill="#84bf56"/><path d="M11.2 89.6h89.6v5.6H11.2zM67.2 28a5.6 5.6 0 1011.2 0 5.6 5.6 0 10-11.2 0zM50.4 50.4a5.6 5.6 0 1011.2 0 5.6 5.6 0 10-11.2 0zM33.6 28a5.6 5.6 0 1011.2 0 5.6 5.6 0 10-11.2 0zM67.2 72.8a5.6 5.6 0 1011.2 0 5.6 5.6 0 10-11.2 0zM33.6 72.8a5.6 5.6 0 1011.2 0 5.6 5.6 0 10-11.2 0z"/><path d="M11.2 173.6a5.6 5.6 0 1011.2 0v-56H11.2zm78.4-56v56a5.6 5.6 0 1011.2 0v-56z" fill="#434854"/><path d="M112 112a5.6 5.6 0 01-5.6 5.6H5.6A5.6 5.6 0 010 112v-11.2a5.6 5.6 0 015.6-5.6h100.8a5.6 5.6 0 015.6 5.6z" fill="#84bf56"/><path d="M106.4 95.2H5.6a5.6 5.6 0 00-5.6 5.6v5.6a5.6 5.6 0 015.6-5.6h100.8a5.6 5.6 0 015.6 5.6v-5.6a5.6 5.6 0 00-5.6-5.6z" fill="#fff"/><path d="M89.6 117.6h11.2v5.6H89.6zm-78.4 0h11.2v5.6H11.2z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="87.5"
+   height="140"
+   viewBox="0 0 112 179.2"
+   class="icon"
+   version="1.1"
+   id="svg534"
+   sodipodi:docname="chair-dining-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs538" />
+  <sodipodi:namedview
+     id="namedview536"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="249.46237"
+     inkscape:cy="400.4779"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg534" />
+  <path
+     d="m 100.8,95.2 v -84 A 11.2,11.2 0 0 0 89.6,0 H 22.4 A 11.2,11.2 0 0 0 11.2,11.2 v 84 z"
+     fill="#84bf56"
+     id="path512"
+     style="stroke-width:0.175" />
+  <path
+     d="m 11.2,89.6 h 89.6 v 5.6 H 11.2 Z"
+     fill=""
+     id="path514"
+     style="stroke-width:0.175" />
+  <path
+     d="m 72.8,28 m -5.6,0 a 5.6,5.6 0 1 0 11.2,0 5.6,5.6 0 1 0 -11.2,0 z"
+     fill=""
+     id="path516"
+     style="stroke-width:0.175" />
+  <path
+     d="m 56,50.4 m -5.6,0 a 5.6,5.6 0 1 0 11.2,0 5.6,5.6 0 1 0 -11.2,0 z"
+     fill=""
+     id="path518"
+     style="stroke-width:0.175" />
+  <path
+     d="m 39.2,28 m -5.6,0 a 5.6,5.6 0 1 0 11.2,0 5.6,5.6 0 1 0 -11.2,0 z"
+     fill=""
+     id="path520"
+     style="stroke-width:0.175" />
+  <path
+     d="m 72.8,72.8 m -5.6,0 a 5.6,5.6 0 1 0 11.2,0 5.6,5.6 0 1 0 -11.2,0 z"
+     fill=""
+     id="path522"
+     style="stroke-width:0.175" />
+  <path
+     d="m 39.2,72.8 m -5.6,0 a 5.6,5.6 0 1 0 11.2,0 5.6,5.6 0 1 0 -11.2,0 z"
+     fill=""
+     id="path524"
+     style="stroke-width:0.175" />
+  <path
+     d="m 11.2,173.6 a 5.6,5.6 0 1 0 11.2,0 v -56 H 11.2 Z m 78.4,-56 v 56 a 5.6,5.6 0 1 0 11.2,0 v -56 z"
+     fill="#434854"
+     id="path526"
+     style="stroke-width:0.175" />
+  <path
+     d="m 112,112 a 5.6,5.6 0 0 1 -5.6,5.6 H 5.6 A 5.6,5.6 0 0 1 0,112 v -11.2 a 5.6,5.6 0 0 1 5.6,-5.6 h 100.8 a 5.6,5.6 0 0 1 5.6,5.6 z"
+     fill="#84bf56"
+     id="path528"
+     style="stroke-width:0.175" />
+  <path
+     d="M 106.4,95.2 H 5.6 A 5.6,5.6 0 0 0 0,100.8 v 5.6 a 5.6,5.6 0 0 1 5.6,-5.6 h 100.8 a 5.6,5.6 0 0 1 5.6,5.6 v -5.6 a 5.6,5.6 0 0 0 -5.6,-5.6 z"
+     fill="#ffffff"
+     id="path530"
+     style="stroke-width:0.175" />
+  <path
+     d="m 89.6,117.6 h 11.2 v 5.6 H 89.6 Z m -78.4,0 h 11.2 v 5.6 H 11.2 Z"
+     fill=""
+     id="path532"
+     style="stroke-width:0.175" />
+</svg>

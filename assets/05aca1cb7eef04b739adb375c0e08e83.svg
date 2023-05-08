@@ -1,1 +1,136 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg631" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs590"><style id="style588">.prefix__cls-1{fill:#98856e}.prefix__cls-4{fill:#cbb292}.prefix__cls-10{fill:#559264}.prefix__cls-11{fill:#71c285}</style></defs><g data-name="Layer 15" id="prefix__Layer_15" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path class="prefix__cls-1" d="M19 12a3 3 0 013 3v43h-6V15a3 3 0 013-3z" id="prefix__path594"/><path id="prefix__rect596" fill="#bea182" d="M32 2h30v34H32z"/><path id="prefix__rect598" fill="#fdd7ad" d="M32 2h27v34H32z"/><path class="prefix__cls-1" id="prefix__polygon600" d="M33 28l3 3-3 3H10v-6z"/><path class="prefix__cls-4" id="prefix__polygon602" d="M30 34l3-3-3-3H10v6z"/><path class="prefix__cls-1" id="prefix__polygon604" d="M33 18l3 3-3 3H10v-6z"/><path class="prefix__cls-4" id="prefix__polygon606" d="M30 24l3-3-3-3H10v6z"/><path class="prefix__cls-1" id="prefix__polygon608" d="M5 38l-3 3 3 3h23v-6z"/><path class="prefix__cls-4" id="prefix__polygon610" d="M24 44v-6H5l-3 3 3 3z"/><path d="M47 32l-7.78-13A8.52 8.52 0 0138 14.64v-.1a8.54 8.54 0 012.5-6 8.54 8.54 0 016-2.5h.92a8.54 8.54 0 016 2.5 8.54 8.54 0 012.5 6v.1A8.52 8.52 0 0154.78 19z" id="prefix__path612" fill="#cc4b4c"/><circle cx="47" cy="15" r="5" id="prefix__circle614" fill="#662626"/><ellipse cx="45.5" cy="15" rx="3.5" ry="4.75" id="prefix__ellipse616" fill="#993839"/><path id="prefix__rect618" fill="#5f443e" d="M2 58h60v4H2z"/><path id="prefix__rect620" fill="#7f5b53" d="M2 58h57v4H2z"/><path class="prefix__cls-10" d="M59.46 58a3.89 3.89 0 00.54-2 4 4 0 00-4-4 4 4 0 00-7-2.62A4 4 0 0042 52a4 4 0 00-4 4 3.89 3.89 0 00.54 2" id="prefix__path622"/><path class="prefix__cls-11" d="M56 56a4 4 0 00-7-2.62A4 4 0 0042 56a4 4 0 00-3.45 2h20.9A4 4 0 0056 56z" id="prefix__path624"/><path class="prefix__cls-10" d="M47.46 58a3.89 3.89 0 00.54-2 4 4 0 00-4-4 4 4 0 00-7-2.62A4 4 0 0030 52a4 4 0 00-4 4 3.89 3.89 0 00.54 2" id="prefix__path626"/><path class="prefix__cls-11" d="M44 56a4 4 0 00-7-2.62A4 4 0 0030 56a4 4 0 00-3.45 2h20.9A4 4 0 0044 56z" id="prefix__path628"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg631"
+   sodipodi:docname="directional-orientation-panel-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview633"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg631" />
+  <defs
+     id="defs590">
+    <style
+       id="style588">.cls-1{fill:#98856e;}.cls-2{fill:#bea182;}.cls-3{fill:#fdd7ad;}.cls-4{fill:#cbb292;}.cls-5{fill:#cc4b4c;}.cls-6{fill:#662626;}.cls-7{fill:#993839;}.cls-8{fill:#5f443e;}.cls-9{fill:#7f5b53;}.cls-10{fill:#559264;}.cls-11{fill:#71c285;}</style>
+  </defs>
+  <title
+     id="title592" />
+  <g
+     data-name="Layer 15"
+     id="Layer_15"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <path
+       class="cls-1"
+       d="m 19,12 v 0 a 3,3 0 0 1 3,3 V 58 H 16 V 15 a 3,3 0 0 1 3,-3 z"
+       id="path594" />
+    <rect
+       class="cls-2"
+       height="34"
+       width="30"
+       x="32"
+       y="2"
+       id="rect596" />
+    <rect
+       class="cls-3"
+       height="34"
+       width="27"
+       x="32"
+       y="2"
+       id="rect598" />
+    <polygon
+       class="cls-1"
+       points="33,28 36,31 33,34 10,34 10,28 "
+       id="polygon600" />
+    <polygon
+       class="cls-4"
+       points="30,34 33,31 30,28 10,28 10,34 "
+       id="polygon602" />
+    <polygon
+       class="cls-1"
+       points="33,18 36,21 33,24 10,24 10,18 "
+       id="polygon604" />
+    <polygon
+       class="cls-4"
+       points="30,24 33,21 30,18 10,18 10,24 "
+       id="polygon606" />
+    <polygon
+       class="cls-1"
+       points="5,38 2,41 5,44 28,44 28,38 "
+       id="polygon608" />
+    <polygon
+       class="cls-4"
+       points="24,44 24,38 5,38 2,41 5,44 "
+       id="polygon610" />
+    <path
+       class="cls-5"
+       d="M 47,32 39.22,19 A 8.52,8.52 0 0 1 38,14.64 v -0.1 a 8.54,8.54 0 0 1 2.5,-6 v 0 a 8.54,8.54 0 0 1 6,-2.5 h 0.92 a 8.54,8.54 0 0 1 6,2.5 v 0 a 8.54,8.54 0 0 1 2.5,6 v 0.1 A 8.52,8.52 0 0 1 54.78,19 Z"
+       id="path612" />
+    <circle
+       class="cls-6"
+       cx="47"
+       cy="15"
+       r="5"
+       id="circle614" />
+    <ellipse
+       class="cls-7"
+       cx="45.5"
+       cy="15"
+       rx="3.5"
+       ry="4.75"
+       id="ellipse616" />
+    <rect
+       class="cls-8"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect618" />
+    <rect
+       class="cls-9"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect620" />
+    <path
+       class="cls-10"
+       d="M 59.46,58 A 3.89,3.89 0 0 0 60,56 4,4 0 0 0 56,52 4,4 0 0 0 49,49.38 4,4 0 0 0 42,52 a 4,4 0 0 0 -4,4 3.89,3.89 0 0 0 0.54,2"
+       id="path622" />
+    <path
+       class="cls-11"
+       d="M 56,56 A 4,4 0 0 0 49,53.38 4,4 0 0 0 42,56 4,4 0 0 0 38.55,58 h 20.9 A 4,4 0 0 0 56,56 Z"
+       id="path624" />
+    <path
+       class="cls-10"
+       d="M 47.46,58 A 3.89,3.89 0 0 0 48,56 4,4 0 0 0 44,52 4,4 0 0 0 37,49.38 4,4 0 0 0 30,52 a 4,4 0 0 0 -4,4 3.89,3.89 0 0 0 0.54,2"
+       id="path626" />
+    <path
+       class="cls-11"
+       d="M 44,56 A 4,4 0 0 0 37,53.38 4,4 0 0 0 30,56 4,4 0 0 0 26.55,58 h 20.9 A 4,4 0 0 0 44,56 Z"
+       id="path628" />
+  </g>
+</svg>

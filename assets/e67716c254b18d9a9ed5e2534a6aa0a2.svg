@@ -1,1 +1,228 @@
-<svg width="140" height="140" viewBox="0 0 11.2 11.2" version="1.1" id="prefix__svg1421" xmlns="http://www.w3.org/2000/svg"><defs id="prefix__defs1352"><style id="style1350">.prefix__cls-1{fill:#e6e6e6}.prefix__cls-2{fill:#559264}.prefix__cls-3{fill:#71c285}.prefix__cls-5{fill:#f2f2f2}.prefix__cls-7{fill:#98856e}.prefix__cls-8{fill:#cbb292}</style></defs><g data-name="Layer 19" id="prefix__Layer_19" transform="matrix(.18667 0 0 .18667 -.373 -.373)"><path class="prefix__cls-1" id="prefix__rect1356" d="M4 12h56v46H4z"/><path class="prefix__cls-2" d="M32 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path1358"/><path class="prefix__cls-3" d="M35.5 25.75A5 5 0 0039 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path1360"/><path class="prefix__cls-2" d="M22 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path1362"/><path class="prefix__cls-3" d="M25.5 25.75A5 5 0 0029 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path1364"/><circle cx="32" cy="13" r="11" id="prefix__circle1366" fill="#ccc"/><ellipse class="prefix__cls-5" cx="30.5" cy="13" rx="9.5" ry="10.89" id="prefix__ellipse1368"/><path class="prefix__cls-2" d="M12 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path1370"/><path class="prefix__cls-3" d="M15.5 25.75A5 5 0 0019 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path1372"/><path class="prefix__cls-2" d="M2 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path1374"/><path class="prefix__cls-3" d="M5.5 25.75A5 5 0 009 21v-9H2v9a5 5 0 003.5 4.75z" id="prefix__path1376"/><path class="prefix__cls-2" d="M52 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path1378"/><path class="prefix__cls-3" d="M55.5 25.75A5 5 0 0059 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path1380"/><path class="prefix__cls-2" d="M42 12h10v9a5 5 0 01-5 5 5 5 0 01-5-5z" id="prefix__path1382"/><path class="prefix__cls-3" d="M45.5 25.75A5 5 0 0049 21v-9h-7v9a5 5 0 003.5 4.75z" id="prefix__path1384"/><path d="M36 17h-2v-2h2a2 2 0 000-4h-2V9h2a4 4 0 010 8z" id="prefix__path1386" fill="#726453"/><path class="prefix__cls-2" id="prefix__rect1388" d="M44 30h10v4H44z"/><path class="prefix__cls-3" id="prefix__rect1390" d="M44 30h7v4h-7z"/><path class="prefix__cls-7" id="prefix__rect1392" d="M42 38h14v20H42z"/><path class="prefix__cls-8" id="prefix__rect1394" d="M42 38h11v20H42z"/><path class="prefix__cls-7" id="prefix__rect1396" d="M8 46h28v6H8z"/><path class="prefix__cls-8" id="prefix__rect1398" d="M8 46h25v6H8z"/><path id="prefix__rect1400" fill="#849eb4" d="M8 30h28v16H8z"/><path id="prefix__rect1402" fill="#b0d3f0" d="M8 30h25v16H8z"/><path id="prefix__rect1404" fill="#5f443e" d="M2 58h60v4H2z"/><path id="prefix__rect1406" fill="#7f5b53" d="M2 58h57v4H2z"/><path class="prefix__cls-7" d="M27 8h8v8a2 2 0 01-2 2h-4a2 2 0 01-2-2z" id="prefix__path1408"/><path class="prefix__cls-8" d="M32 16V8h-5v8a2 2 0 002 2h1a2 2 0 002-2z" id="prefix__path1410"/><path class="prefix__cls-1" transform="rotate(-45 15.003 38.006)" id="prefix__rect1412" d="M10.76 37h8.49v2h-8.49z"/><path class="prefix__cls-1" transform="rotate(-45 22.003 38.006)" id="prefix__rect1414" d="M17.76 37h8.49v2h-8.49z"/><path class="prefix__cls-1" transform="rotate(-45 29.003 38.007)" id="prefix__rect1416" d="M24.76 37h8.49v2h-8.49z"/><path class="prefix__cls-5" id="prefix__rect1418" d="M45 45h2v6h-2z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 11.2 11.2"
+   version="1.1"
+   id="svg1421"
+   sodipodi:docname="architecture-cafe-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1423"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="374.67145"
+     inkscape:cy="375.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1421" />
+  <defs
+     id="defs1352">
+    <style
+       id="style1350">.cls-1{fill:#e6e6e6;}.cls-2{fill:#559264;}.cls-3{fill:#71c285;}.cls-4{fill:#ccc;}.cls-5{fill:#f2f2f2;}.cls-6{fill:#726453;}.cls-7{fill:#98856e;}.cls-8{fill:#cbb292;}.cls-9{fill:#849eb4;}.cls-10{fill:#b0d3f0;}.cls-11{fill:#5f443e;}.cls-12{fill:#7f5b53;}</style>
+  </defs>
+  <title
+     id="title1354" />
+  <g
+     data-name="Layer 19"
+     id="Layer_19"
+     transform="matrix(0.18666667,0,0,0.18666667,-0.37333334,-0.37333334)">
+    <rect
+       class="cls-1"
+       height="46"
+       width="56"
+       x="4"
+       y="12"
+       id="rect1356" />
+    <path
+       class="cls-2"
+       d="m 32,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path1358" />
+    <path
+       class="cls-3"
+       d="M 35.5,25.75 A 5,5 0 0 0 39,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path1360" />
+    <path
+       class="cls-2"
+       d="m 22,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path1362" />
+    <path
+       class="cls-3"
+       d="M 25.5,25.75 A 5,5 0 0 0 29,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path1364" />
+    <circle
+       class="cls-4"
+       cx="32"
+       cy="13"
+       r="11"
+       id="circle1366" />
+    <ellipse
+       class="cls-5"
+       cx="30.5"
+       cy="13"
+       rx="9.5"
+       ry="10.89"
+       id="ellipse1368" />
+    <path
+       class="cls-2"
+       d="m 12,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path1370" />
+    <path
+       class="cls-3"
+       d="M 15.5,25.75 A 5,5 0 0 0 19,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path1372" />
+    <path
+       class="cls-2"
+       d="m 2,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 A 5,5 0 0 1 2,21 Z"
+       id="path1374" />
+    <path
+       class="cls-3"
+       d="M 5.5,25.75 A 5,5 0 0 0 9,21 V 12 H 2 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path1376" />
+    <path
+       class="cls-2"
+       d="m 52,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path1378" />
+    <path
+       class="cls-3"
+       d="M 55.5,25.75 A 5,5 0 0 0 59,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path1380" />
+    <path
+       class="cls-2"
+       d="m 42,12 h 10 v 9 a 5,5 0 0 1 -5,5 v 0 a 5,5 0 0 1 -5,-5 z"
+       id="path1382" />
+    <path
+       class="cls-3"
+       d="M 45.5,25.75 A 5,5 0 0 0 49,21 v -9 h -7 v 9 a 5,5 0 0 0 3.5,4.75 z"
+       id="path1384" />
+    <path
+       class="cls-6"
+       d="m 36,17 h -2 v -2 h 2 a 2,2 0 0 0 0,-4 H 34 V 9 h 2 a 4,4 0 0 1 0,8 z"
+       id="path1386" />
+    <rect
+       class="cls-2"
+       height="4"
+       width="10"
+       x="44"
+       y="30"
+       id="rect1388" />
+    <rect
+       class="cls-3"
+       height="4"
+       width="7"
+       x="44"
+       y="30"
+       id="rect1390" />
+    <rect
+       class="cls-7"
+       height="20"
+       width="14"
+       x="42"
+       y="38"
+       id="rect1392" />
+    <rect
+       class="cls-8"
+       height="20"
+       width="11"
+       x="42"
+       y="38"
+       id="rect1394" />
+    <rect
+       class="cls-7"
+       height="6"
+       width="28"
+       x="8"
+       y="46"
+       id="rect1396" />
+    <rect
+       class="cls-8"
+       height="6"
+       width="25"
+       x="8"
+       y="46"
+       id="rect1398" />
+    <rect
+       class="cls-9"
+       height="16"
+       width="28"
+       x="8"
+       y="30"
+       id="rect1400" />
+    <rect
+       class="cls-10"
+       height="16"
+       width="25"
+       x="8"
+       y="30"
+       id="rect1402" />
+    <rect
+       class="cls-11"
+       height="4"
+       width="60"
+       x="2"
+       y="58"
+       id="rect1404" />
+    <rect
+       class="cls-12"
+       height="4"
+       width="57"
+       x="2"
+       y="58"
+       id="rect1406" />
+    <path
+       class="cls-7"
+       d="m 27,8 h 8 v 8 a 2,2 0 0 1 -2,2 h -4 a 2,2 0 0 1 -2,-2 z"
+       id="path1408" />
+    <path
+       class="cls-8"
+       d="M 32,16 V 8 h -5 v 8 a 2,2 0 0 0 2,2 h 1 a 2,2 0 0 0 2,-2 z"
+       id="path1410" />
+    <rect
+       class="cls-1"
+       height="2"
+       transform="rotate(-45,15.002501,38.00576)"
+       width="8.4899998"
+       x="10.76"
+       y="37"
+       id="rect1412" />
+    <rect
+       class="cls-1"
+       height="2"
+       transform="rotate(-45,22.00268,38.006192)"
+       width="8.4899998"
+       x="17.76"
+       y="37"
+       id="rect1414" />
+    <rect
+       class="cls-1"
+       height="2"
+       transform="rotate(-45,29.002859,38.006623)"
+       width="8.4899998"
+       x="24.76"
+       y="37"
+       id="rect1416" />
+    <rect
+       class="cls-5"
+       height="6"
+       width="2"
+       x="45"
+       y="45"
+       id="rect1418" />
+  </g>
+</svg>
